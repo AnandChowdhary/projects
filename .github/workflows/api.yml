@@ -18,6 +18,6 @@ jobs:
       - name: Update summary & API
         uses: AnandChowdhary/notes-summary@HEAD
         with:
-          token: "${{ secrets.GH_PAT }}"
+          token: "${{ secrets.GITHUB_TOKEN }}"
           commitMessage: ":pencil: Update projects summary [skip ci]"
           dirName: "projects"

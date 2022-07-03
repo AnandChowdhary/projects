@@ -1,7 +1,7 @@
 name: Readme CI
 on:
   push:
-    branches: [master]
+    branches: [main]
   repository_dispatch:
     types: [readme]
   workflow_dispatch:

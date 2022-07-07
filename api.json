@@ -3,14 +3,14 @@
     "slug": "gsmc.md",
     "title": "Global School of Media Crafting",
     "date": "2012-05-25T00:00:00.000Z",
-    "excerpt": "tags:",
+    "excerpt": "From May to July 2012, I worked as an intern",
     "words": 107
   },
   {
     "slug": "pickquick.md",
     "title": "PickQuick",
     "date": "2012-07-05T00:00:00.000Z",
-    "excerpt": "tags:",
+    "excerpt": "My first \"real\" co-foundership experience was when a student of the National Instutite of Technology (NIT) Calicut, Shivam Soon, reached out to me with the idea of building a platform where students can buy, sell, and trade old books. He saw a great opportunity to formalize the exchange process of expensive university textbooks.",
     "words": 132
   },
   {
@@ -24,7 +24,7 @@
     "slug": "classrebels.md",
     "title": "ClassRebels",
     "date": "2014-01-15T00:00:00.000Z",
-    "excerpt": "tags:",
+    "excerpt": "Unlike all",
     "words": 388
   },
   {
@@ -52,7 +52,6 @@
     "slug": "project-blue.md",
     "title": "Project Blue",
     "date": "2014-07-01T00:00:00.000Z",
-    "excerpt": "tags:",
     "words": 350
   },
   {
@@ -66,7 +65,7 @@
     "slug": "saga-music.md",
     "title": "Saga Music",
     "date": "2015-05-31T00:00:00.000Z",
-    "excerpt": "tags:",
+    "excerpt": "Music has always been an integral part of our lives. Ever since people started using the internet, they've been downloading music and movies. The process became relatively simple with the introduction of Napster in 1999, which led to the development of many such tools. I remember growing up with Limewire and Bearshare. After the discontinuation of these services in after ten long years, downloading music became really complicated again.",
     "words": 292
   },
   {
@@ -87,168 +86,163 @@
     "slug": "baymax.md",
     "title": "Baymax",
     "date": "2015-12-11T00:00:00.000Z",
-    "excerpt": "tags:",
+    "excerpt": "The idea is pretty simple — like in the movie, we need a personal healthcare companion, someone who can help us medically when we need it to, both by providing the right information to us and helping us get in touch with the right medical professionals.",
     "words": 145
   },
   {
     "slug": "keeep.md",
     "title": "Keeep",
     "date": "2016-01-24T00:00:00.000Z",
-    "excerpt": "tags:",
+    "excerpt": "For my highschool Computer Science project, I built an encryption engine and password manager in C/C++. I wrote a pseudo-encryption algorithm with string manipulation, rotation, and encoding.",
     "words": 212
   },
   {
     "slug": "firangana.md",
     "title": "Firangana",
     "date": "2016-03-01T00:00:00.000Z",
-    "excerpt": "tags:",
+    "excerpt": "In mid-2016, my girlfriend <a href=\"https://sukritikapoor. com\">Sukriti Kapoor</a> and I conceptualized a fashion brand that combines western clothing with ethnic Indian designs. She worked on fabric and fashion design while I designed the brand identity and website.",
     "words": 99
   },
   {
     "slug": "delhi-government.md",
     "title": "Delhi Government",
     "date": "2016-04-26T00:00:00.000Z",
-    "excerpt": "tags:",
+    "excerpt": "In April and May, 2016, I worked with a small team at the Government of Delhi's Directorate of Education to try and streamline the process of communication between state schools and the Directorate. Today, if a school principal has a problem, she has to report a grievance, wait for a response, get redirected to the correct department, find someone, address the problem, and it keeps going on and on. We redesigned this process from group up for efficient, two-way communication.",
     "words": 272
   },
   {
     "slug": "valmiki.md",
     "title": "Valmiki",
     "date": "2016-06-11T00:00:00.000Z",
-    "excerpt": "tags:",
+    "excerpt": "In June 2016, I had the idea of developing a browser extension for users with dyselxia which could redesign webpages to make them easier to read. Nishant and I built the extension during a weekend hackathon, AngelHack Delhi 2016, where we won the Code4Impact Challenge.",
     "words": 163
   },
   {
     "slug": "naari.md",
     "title": "Naari",
     "date": "2016-10-16T00:00:00.000Z",
-    "excerpt": "tags:",
     "words": 199
   },
   {
     "slug": "melangebox.md",
     "title": "Melangebox",
     "date": "2017-01-01T00:00:00.000Z",
-    "excerpt": "tags:",
+    "excerpt": "In early 2017, Mahendra Singh Raghuwanshi and I",
     "words": 80
   },
   {
     "slug": "bharathacks.md",
     "title": "BharatHacks",
     "date": "2017-07-18T00:00:00.000Z",
-    "excerpt": "tags:",
+    "excerpt": "In June 2017, I",
     "words": 243
   },
   {
     "slug": "agastya.md",
     "title": "Agastya",
     "date": "2017-08-25T00:00:00.000Z",
-    "excerpt": "tags:",
     "words": 191
   },
   {
     "slug": "facematch.md",
     "title": "FaceMatch",
     "date": "2017-09-23T00:00:00.000Z",
-    "excerpt": "tags:",
+    "excerpt": "For the Amazon Web Services (AWS) Hackathon at [The Future of High Tech](http://www. thefutureofhightech. com/), part of the Startup Fest Europe 2017, I",
     "words": 332
   },
   {
     "slug": "capella.md",
     "title": "Capella",
     "date": "2017-10-21T00:00:00.000Z",
-    "excerpt": "tags:",
+    "excerpt": "At the Amsterdam Dance Event's hackathon in October 2017, I",
     "words": 161
   },
   {
     "slug": "refuserve.md",
     "title": "RefuServe",
     "date": "2017-11-19T00:00:00.000Z",
-    "excerpt": "tags:",
+    "excerpt": "In November 2017, I worked with Trivago in Düsseldorf on building an app to help refugees find jobs in Europe.",
     "words": 126
   },
   {
     "slug": "blueboard.md",
     "title": "Blueboard",
     "date": "2018-01-23T00:00:00.000Z",
-    "excerpt": "tags:",
+    "excerpt": "BlueBoard is a Bluetooth-powered smart billboard that actually cares about you. Privacy-first and context-aware, it connects with your smartphone via Bluetooth and shows you relevant advertisements and information.",
     "words": 242
   },
   {
     "slug": "csunite.md",
     "title": "CSUnite",
     "date": "2018-03-11T00:00:00.000Z",
-    "excerpt": "tags:",
+    "excerpt": "I worked with CSU, the Netherlands' second-largest cleaning service provider, during the first weekend of March 2018 in the Philips Stadion in Eindhoven as part of their first hackathon, Bright Future Hack.",
     "words": 166
   },
   {
     "slug": "drillmaps.md",
     "title": "DrillMaps",
     "date": "2018-03-11T00:00:00.000Z",
-    "excerpt": "tags:",
+    "excerpt": "In February and March 2018, I worked",
     "words": 148
   },
   {
     "slug": "ibm-iot-escape-room.md",
     "title": "IBM IoT Escape Room",
     "date": "2018-04-12T00:00:00.000Z",
-    "excerpt": "tags:",
+    "excerpt": "From February to April 2018, my project group and I worked with IBM on building an escape room using—and to teach players about—the IoT. Using Wemoses and Ardiuos as the basic building blocks, combined with Firebase's real-time database and a custom-built Vue. js app, we built a proof-of-concept with five connected puzzles.",
     "words": 198
   },
   {
     "slug": "wendy.md",
     "title": "Wendy",
     "date": "2018-05-27T00:00:00.000Z",
-    "excerpt": "tags:",
+    "excerpt": "On a weekend in March 2018, I",
     "words": 162
   },
   {
     "slug": "shravan-apps.md",
     "title": "Shravan Apps",
     "date": "2018-10-18T00:00:00.000Z",
-    "excerpt": "tags:",
     "words": 69
   },
   {
     "slug": "clshare.md",
     "title": "CLShare",
     "date": "2018-11-17T00:00:00.000Z",
-    "excerpt": "tags:",
+    "excerpt": "On a Thursday/Friday in November 2018, my team and I built and",
     "words": 197
   },
   {
     "slug": "aristotle.md",
     "title": "Aristotle",
     "date": "2018-11-30T00:00:00.000Z",
-    "excerpt": "tags:",
+    "excerpt": "Between November 29 and December 1, 2018, my team and I built and",
     "words": 232
   },
   {
     "slug": "scrub.md",
     "title": "Scrub",
     "date": "2019-05-18T00:00:00.000Z",
-    "excerpt": "tags:",
+    "excerpt": "During the third weekend of May, my team and I participated in the [TechCrunch Hackathon](https://techcrunch. com/events/techcrunch-hackathon-at-vivatech-2019/) at Vivatech 2019 in the Corvid by Wix category. The challenge was to build a developer productivity tool using Wix's new platform.",
     "words": 179
   },
   {
     "slug": "staart.md",
     "title": "Staart",
     "date": "2019-09-01T00:00:00.000Z",
-    "excerpt": "tags:",
     "words": 138
   },
   {
     "slug": "type-with-tobias.md",
     "title": "Type with Tobias",
     "date": "2019-12-09T00:00:00.000Z",
-    "excerpt": "tags:",
+    "excerpt": "From September to December 2019, I studied Typography at Santa Clara University in California as part of my minor semester abroad. One of the projects I designed was a brochure, ticket, and design system for a typography event featuring iconic designer Tobias Frere-Jones.",
     "words": 113
   },
   {
     "slug": "uppload.md",
     "title": "Uppload",
     "date": "2020-01-01T00:00:00.000Z",
-    "excerpt": "tags:",
     "words": 204
   }
 ]

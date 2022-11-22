@@ -1,248 +1,319 @@
 [
   {
     "slug": "gsmc.md",
+    "path": "projects/2012/gsmc.md",
+    "source": "https://github.com/AnandChowdhary/projects/blob/main/projects/2012/gsmc.md",
     "title": "Global School of Media Crafting",
     "date": "2012-05-25T00:00:00.000Z",
-    "excerpt": "From May to July 2012, I worked as an intern",
-    "words": 107
+    "excerpt": "(GSMC), a \"new-age media school\" in New Delhi. This was my first internship, and I designed a new brand identity for the institute, including a logo, website, and marketing materials like banners, posters, and brochures. I also learned video editing, film production, and screen design techniques and worked directly under celebrated media personality Kanupriya.",
+    "words": 75
   },
   {
     "slug": "pickquick.md",
+    "path": "projects/2012/pickquick.md",
+    "source": "https://github.com/AnandChowdhary/projects/blob/main/projects/2012/pickquick.md",
     "title": "PickQuick",
     "date": "2012-07-05T00:00:00.000Z",
-    "excerpt": "My first \"real\" co-foundership experience was when a student of the National Instutite of Technology (NIT) Calicut, Shivam Soon, reached out to me with the idea of building a platform where students can buy, sell, and trade old books. He saw a great opportunity to formalize the exchange process of expensive university textbooks.",
-    "words": 132
+    "excerpt": "as my first startup, because we didn't figure out a business plan and my role was limited to design and engineering, but it was one of my first end-to-end PHP/MySQL platform development projects.",
+    "words": 103
   },
   {
     "slug": "internet.org.md",
+    "path": "projects/2013/internet.org.md",
+    "source": "https://github.com/AnandChowdhary/projects/blob/main/projects/2013/internet.org.md",
     "title": "Internet.org",
     "date": "2013-10-11T00:00:00.000Z",
-    "excerpt": "tags:",
-    "words": 120
-  },
-  {
-    "slug": "classrebels.md",
-    "title": "ClassRebels",
-    "date": "2014-01-15T00:00:00.000Z",
-    "excerpt": "Unlike all",
-    "words": 388
-  },
-  {
-    "slug": "made-with-love-in-india.md",
-    "title": "Made with Love in India",
-    "date": "2014-04-21T00:00:00.000Z",
-    "excerpt": "tags:",
-    "words": 302
-  },
-  {
-    "slug": "unifiers.md",
-    "title": "Unifiers",
-    "date": "2014-05-27T00:00:00.000Z",
-    "excerpt": "tags:",
-    "words": 238
-  },
-  {
-    "slug": "cyankart.md",
-    "title": "Cyankart",
-    "date": "2014-06-21T00:00:00.000Z",
-    "excerpt": "tags:",
-    "words": 190
-  },
-  {
-    "slug": "project-blue.md",
-    "title": "Project Blue",
-    "date": "2014-07-01T00:00:00.000Z",
-    "words": 350
-  },
-  {
-    "slug": "justice-adda.md",
-    "title": "Justice Adda",
-    "date": "2014-08-24T00:00:00.000Z",
-    "excerpt": "tags:",
-    "words": 187
-  },
-  {
-    "slug": "saga-music.md",
-    "title": "Saga Music",
-    "date": "2015-05-31T00:00:00.000Z",
-    "excerpt": "Music has always been an integral part of our lives. Ever since people started using the internet, they've been downloading music and movies. The process became relatively simple with the introduction of Napster in 1999, which led to the development of many such tools. I remember growing up with Limewire and Bearshare. After the discontinuation of these services in after ten long years, downloading music became really complicated again.",
-    "words": 292
-  },
-  {
-    "slug": "sixteeninches.md",
-    "title": "SixteenInches",
-    "date": "2015-09-12T00:00:00.000Z",
-    "excerpt": "tags:",
-    "words": 166
-  },
-  {
-    "slug": "crink-jewel.md",
-    "title": "Crink Jewel",
-    "date": "2015-10-20T00:00:00.000Z",
-    "excerpt": "tags:",
+    "excerpt": "'s homepage and logo. The content had to remain the same, but the design was to be completely new. The website was required to be responsive, and good in code-quality and aesthetics, without the use of any external code. The logo was marked for creativity and execution. Here's what I designed in five hours. And why. Read the article on Medium &rarr;",
     "words": 91
   },
   {
+    "slug": "classrebels.md",
+    "path": "projects/2014/classrebels.md",
+    "source": "https://github.com/AnandChowdhary/projects/blob/main/projects/2014/classrebels.md",
+    "title": "ClassRebels",
+    "date": "2014-01-15T00:00:00.000Z",
+    "excerpt": "didn't start with the simple idea of making teachers and students connect in a way they've never connected before. It started with an idea to bring about a reform, a change, and a revolution. In India, this change was long needed. The society is evolving, and our education system needs to catch up. We believe that the whole idea of education is taken in the wrong sense.",
+    "words": 355
+  },
+  {
+    "slug": "made-with-love-in-india.md",
+    "path": "projects/2014/made-with-love-in-india.md",
+    "source": "https://github.com/AnandChowdhary/projects/blob/main/projects/2014/made-with-love-in-india.md",
+    "title": "Made with Love in India",
+    "date": "2014-04-21T00:00:00.000Z",
+    "excerpt": "is a platform to celebrate, promote, and build a brand --- India. Over 75 organizations use the",
+    "words": 264
+  },
+  {
+    "slug": "unifiers.md",
+    "path": "projects/2014/unifiers.md",
+    "source": "https://github.com/AnandChowdhary/projects/blob/main/projects/2014/unifiers.md",
+    "title": "Unifiers",
+    "date": "2014-05-27T00:00:00.000Z",
+    "excerpt": "Social Ventures Pvt. Ltd., a leading social infrastructure company, and worked on a variety of projects. SkillsTrainer\n\nI lead the development on SkillsTrainer, India's first online train-the-trainer platform built in collaboration with government agencies and large corporations. Using SkillsTrainer, people could complete entire skilling programs online, get certified, and find jobs. SkillsTrainer screenshot\n\nNayee Disha\n\nI also designed components for Nayee Disha, a",
+    "words": 210
+  },
+  {
+    "slug": "cyankart.md",
+    "path": "projects/2014/cyankart.md",
+    "source": "https://github.com/AnandChowdhary/projects/blob/main/projects/2014/cyankart.md",
+    "title": "Cyankart",
+    "date": "2014-06-21T00:00:00.000Z",
+    "excerpt": ".com is India's most popular online fashion store for phone cases and apparel items. They were looking to expand their mobile reach and increase conversions, so I was hired to redesign their ecommerce website and provide logistics-related backend solutions. A/B testing, source code minification, image optimization, and responsive cross-platform mobile-first Liquid theme development are just some of the complicated words I used while working with",
+    "words": 159
+  },
+  {
+    "slug": "project-blue.md",
+    "path": "projects/2014/project-blue.md",
+    "source": "https://github.com/AnandChowdhary/projects/blob/main/projects/2014/project-blue.md",
+    "title": "Project Blue",
+    "date": "2014-07-01T00:00:00.000Z",
+    "excerpt": ", originally standing for 'Bottles, Linkages, and their Underlining Ergonomics,' is my first (and only) industrial design project in which I conducted a research and redesigned the plastic bottle. I understood that polyethene terephthalate, a plastic resin and the most common type of polyester, is the material which makes the popular 'PET' bottles. According to the National Association for PET Container Resources (NAPCOR), the gross water bottle recycling rate was only 38.6% last year.",
+    "words": 318
+  },
+  {
+    "slug": "justice-adda.md",
+    "path": "projects/2014/justice-adda.md",
+    "source": "https://github.com/AnandChowdhary/projects/blob/main/projects/2014/justice-adda.md",
+    "title": "Justice Adda",
+    "date": "2014-08-24T00:00:00.000Z",
+    "excerpt": ", a startup part of Cambridge Social Ventures in the Judge Business School, University of Cambridge. I designed their early website and webapps like Intolerance Tracker. I also worked on their branding, and this is a small Paul Rand-inspired magazine I designed to showcase the new brand.",
+    "words": 151
+  },
+  {
+    "slug": "saga-music.md",
+    "path": "projects/2015/saga-music.md",
+    "source": "https://github.com/AnandChowdhary/projects/blob/main/projects/2015/saga-music.md",
+    "title": "Saga Music",
+    "date": "2015-05-31T00:00:00.000Z",
+    "excerpt": "&rarr;](https://anandchowdhary.github.io/saga-music)\n\nView source on Github &rarr;",
+    "words": 254
+  },
+  {
+    "slug": "sixteeninches.md",
+    "path": "projects/2015/sixteeninches.md",
+    "source": "https://github.com/AnandChowdhary/projects/blob/main/projects/2015/sixteeninches.md",
+    "title": "SixteenInches",
+    "date": "2015-09-12T00:00:00.000Z",
+    "excerpt": ".com is one of the fastest-growing online supplements store. It was built on a foundation of authenticity and quality-control, both of which currently lack the healthcare industry. I was hired to design the",
+    "words": 133
+  },
+  {
+    "slug": "crink-jewel.md",
+    "path": "projects/2015/crink-jewel.md",
+    "source": "https://github.com/AnandChowdhary/projects/blob/main/projects/2015/crink-jewel.md",
+    "title": "Crink Jewel",
+    "date": "2015-10-20T00:00:00.000Z",
+    "excerpt": ", a precious jewelry company based in New Delhi, India. I tried to portray elegance, simplicity, and timelessness.",
+    "words": 60
+  },
+  {
     "slug": "baymax.md",
+    "path": "projects/2015/baymax.md",
+    "source": "https://github.com/AnandChowdhary/projects/blob/main/projects/2015/baymax.md",
     "title": "Baymax",
     "date": "2015-12-11T00:00:00.000Z",
-    "excerpt": "The idea is pretty simple — like in the movie, we need a personal healthcare companion, someone who can help us medically when we need it to, both by providing the right information to us and helping us get in touch with the right medical professionals.",
-    "words": 145
+    "excerpt": "will tell you how to make the swelling go away and will help you get well by providing a treatment. If that doesn't work,",
+    "words": 115
   },
   {
     "slug": "keeep.md",
+    "path": "projects/2016/keeep.md",
+    "source": "https://github.com/AnandChowdhary/projects/blob/main/projects/2016/keeep.md",
     "title": "Keeep",
     "date": "2016-01-24T00:00:00.000Z",
-    "excerpt": "For my highschool Computer Science project, I built an encryption engine and password manager in C/C++. I wrote a pseudo-encryption algorithm with string manipulation, rotation, and encoding.",
-    "words": 212
+    "excerpt": "is a lightweight password management and encryption utility for Windows. It stores all usernames, passwords, credit cards, free-form notes, and more, in a securely encrypted file, protected by a single master password.",
+    "words": 185
   },
   {
     "slug": "firangana.md",
+    "path": "projects/2016/firangana.md",
+    "source": "https://github.com/AnandChowdhary/projects/blob/main/projects/2016/firangana.md",
     "title": "Firangana",
     "date": "2016-03-01T00:00:00.000Z",
-    "excerpt": "In mid-2016, my girlfriend <a href=\"https://sukritikapoor. com\">Sukriti Kapoor</a> and I conceptualized a fashion brand that combines western clothing with ethnic Indian designs. She worked on fabric and fashion design while I designed the brand identity and website.",
-    "words": 99
+    "words": 67
   },
   {
     "slug": "delhi-government.md",
+    "path": "projects/2016/delhi-government.md",
+    "source": "https://github.com/AnandChowdhary/projects/blob/main/projects/2016/delhi-government.md",
     "title": "Delhi Government",
     "date": "2016-04-26T00:00:00.000Z",
-    "excerpt": "In April and May, 2016, I worked with a small team at the Government of Delhi's Directorate of Education to try and streamline the process of communication between state schools and the Directorate. Today, if a school principal has a problem, she has to report a grievance, wait for a response, get redirected to the correct department, find someone, address the problem, and it keeps going on and on. We redesigned this process from group up for efficient, two-way communication.",
-    "words": 272
+    "words": 239
   },
   {
     "slug": "valmiki.md",
+    "path": "projects/2016/valmiki.md",
+    "source": "https://github.com/AnandChowdhary/projects/blob/main/projects/2016/valmiki.md",
     "title": "Valmiki",
     "date": "2016-06-11T00:00:00.000Z",
-    "excerpt": "In June 2016, I had the idea of developing a browser extension for users with dyselxia which could redesign webpages to make them easier to read. Nishant and I built the extension during a weekend hackathon, AngelHack Delhi 2016, where we won the Code4Impact Challenge.",
-    "words": 163
-  },
-  {
-    "slug": "naari.md",
-    "title": "Naari",
-    "date": "2016-10-16T00:00:00.000Z",
-    "words": 199
-  },
-  {
-    "slug": "melangebox.md",
-    "title": "Melangebox",
-    "date": "2017-01-01T00:00:00.000Z",
-    "excerpt": "In early 2017, Mahendra Singh Raghuwanshi and I",
-    "words": 80
-  },
-  {
-    "slug": "bharathacks.md",
-    "title": "BharatHacks",
-    "date": "2017-07-18T00:00:00.000Z",
-    "excerpt": "In June 2017, I",
-    "words": 243
-  },
-  {
-    "slug": "agastya.md",
-    "title": "Agastya",
-    "date": "2017-08-25T00:00:00.000Z",
-    "words": 191
-  },
-  {
-    "slug": "facematch.md",
-    "title": "FaceMatch",
-    "date": "2017-09-23T00:00:00.000Z",
-    "excerpt": "For the Amazon Web Services (AWS) Hackathon at [The Future of High Tech](http://www. thefutureofhightech. com/), part of the Startup Fest Europe 2017, I",
-    "words": 332
-  },
-  {
-    "slug": "capella.md",
-    "title": "Capella",
-    "date": "2017-10-21T00:00:00.000Z",
-    "excerpt": "At the Amsterdam Dance Event's hackathon in October 2017, I",
-    "words": 161
-  },
-  {
-    "slug": "refuserve.md",
-    "title": "RefuServe",
-    "date": "2017-11-19T00:00:00.000Z",
-    "excerpt": "In November 2017, I worked with Trivago in Düsseldorf on building an app to help refugees find jobs in Europe.",
-    "words": 126
-  },
-  {
-    "slug": "blueboard.md",
-    "title": "Blueboard",
-    "date": "2018-01-23T00:00:00.000Z",
-    "excerpt": "BlueBoard is a Bluetooth-powered smart billboard that actually cares about you. Privacy-first and context-aware, it connects with your smartphone via Bluetooth and shows you relevant advertisements and information.",
-    "words": 242
-  },
-  {
-    "slug": "csunite.md",
-    "title": "CSUnite",
-    "date": "2018-03-11T00:00:00.000Z",
-    "excerpt": "I worked with CSU, the Netherlands' second-largest cleaning service provider, during the first weekend of March 2018 in the Philips Stadion in Eindhoven as part of their first hackathon, Bright Future Hack.",
-    "words": 166
-  },
-  {
-    "slug": "drillmaps.md",
-    "title": "DrillMaps",
-    "date": "2018-03-11T00:00:00.000Z",
-    "excerpt": "In February and March 2018, I worked",
-    "words": 148
-  },
-  {
-    "slug": "ibm-iot-escape-room.md",
-    "title": "IBM IoT Escape Room",
-    "date": "2018-04-12T00:00:00.000Z",
-    "excerpt": "From February to April 2018, my project group and I worked with IBM on building an escape room using—and to teach players about—the IoT. Using Wemoses and Ardiuos as the basic building blocks, combined with Firebase's real-time database and a custom-built Vue. js app, we built a proof-of-concept with five connected puzzles.",
-    "words": 198
-  },
-  {
-    "slug": "wendy.md",
-    "title": "Wendy",
-    "date": "2018-05-27T00:00:00.000Z",
-    "excerpt": "On a weekend in March 2018, I",
-    "words": 162
-  },
-  {
-    "slug": "shravan-apps.md",
-    "title": "Shravan Apps",
-    "date": "2018-10-18T00:00:00.000Z",
-    "words": 69
-  },
-  {
-    "slug": "clshare.md",
-    "title": "CLShare",
-    "date": "2018-11-17T00:00:00.000Z",
-    "excerpt": "On a Thursday/Friday in November 2018, my team and I built and",
-    "words": 197
-  },
-  {
-    "slug": "aristotle.md",
-    "title": "Aristotle",
-    "date": "2018-11-30T00:00:00.000Z",
-    "excerpt": "Between November 29 and December 1, 2018, my team and I built and",
-    "words": 232
-  },
-  {
-    "slug": "scrub.md",
-    "title": "Scrub",
-    "date": "2019-05-18T00:00:00.000Z",
-    "excerpt": "During the third weekend of May, my team and I participated in the [TechCrunch Hackathon](https://techcrunch. com/events/techcrunch-hackathon-at-vivatech-2019/) at Vivatech 2019 in the Corvid by Wix category. The challenge was to build a developer productivity tool using Wix's new platform.",
-    "words": 179
-  },
-  {
-    "slug": "staart.md",
-    "title": "Staart",
-    "date": "2019-09-01T00:00:00.000Z",
     "words": 138
   },
   {
+    "slug": "naari.md",
+    "path": "projects/2016/naari.md",
+    "source": "https://github.com/AnandChowdhary/projects/blob/main/projects/2016/naari.md",
+    "title": "Naari",
+    "date": "2016-10-16T00:00:00.000Z",
+    "excerpt": "(meaning woman in Hindi) is the end-to-end period healthcare companion---from giving you personalized tampon recommendations using P&G's survey data and HPE's machine learning APIs---to getting those products delivered to your doorstep via Amazon. Great use of machine learning to drive a benefit for women. > -- Erik Hasenoehrl, Research Fellow, Procter & Gamble",
+    "words": 166
+  },
+  {
+    "slug": "melangebox.md",
+    "path": "projects/2017/melangebox.md",
+    "source": "https://github.com/AnandChowdhary/projects/blob/main/projects/2017/melangebox.md",
+    "title": "Melangebox",
+    "date": "2017-01-01T00:00:00.000Z",
+    "excerpt": ", a fashion ecommerce startup. I designed the brand identity and developed a mobile-first Shopify store, and Mahendra handled the production, inventory, and shipping. In mid-2018, we had grown to over ₹50,000 ($750) in revenue every day and continue to grow.\n\n[Visit",
+    "words": 54
+  },
+  {
+    "slug": "bharathacks.md",
+    "path": "projects/2017/bharathacks.md",
+    "source": "https://github.com/AnandChowdhary/projects/blob/main/projects/2017/bharathacks.md",
+    "title": "BharatHacks",
+    "date": "2017-07-18T00:00:00.000Z",
+    "excerpt": ", a hackathon for solving India-specific problems. Programmers, designers, engineers, and entrepreneurs came together to build products to make lives better. Organized in collaboration with Facebook Developer Circle Delhi-NCR,",
+    "words": 210
+  },
+  {
+    "slug": "agastya.md",
+    "path": "projects/2017/agastya.md",
+    "source": "https://github.com/AnandChowdhary/projects/blob/main/projects/2017/agastya.md",
+    "title": "Agastya",
+    "date": "2017-08-25T00:00:00.000Z",
+    "excerpt": "is a web accessibility plugin for websites. It has over 20 features, such as dyslexia-friendly reading mode, blind-friendly read aloud, and user customizations features for contrast, font size, etc. I built",
+    "words": 166
+  },
+  {
+    "slug": "facematch.md",
+    "path": "projects/2017/facematch.md",
+    "source": "https://github.com/AnandChowdhary/projects/blob/main/projects/2017/facematch.md",
+    "title": "FaceMatch",
+    "date": "2017-09-23T00:00:00.000Z",
+    "excerpt": ", a mobile app that uses deep learning-based facial detection, and displays the results in an augmented reality heads-up display. I ended up winning the hackathon's grand prize of €1,000 along with VIP tickets for StartupFest Europe. View GitHub repo &rarr;\n\nThe idea is simple — if you enter a large conference or a room full of people, you want to know who you should network with.",
+    "words": 297
+  },
+  {
+    "slug": "capella.md",
+    "path": "projects/2017/capella.md",
+    "source": "https://github.com/AnandChowdhary/projects/blob/main/projects/2017/capella.md",
+    "title": "Capella",
+    "date": "2017-10-21T00:00:00.000Z",
+    "excerpt": "in 24 hours, a Progressive Web App that lets you find your friends in concerts using location sharing. You can also make new friends based on similar music taste and discover venue heat-maps. The app was built using HTML5 with a PHP backend integrated with some machine learning and music tagging APIs. The Spotify-inspired dark UI was also designed, along with a beautiful app icon. View GitHub repo &rarr;",
+    "words": 128
+  },
+  {
+    "slug": "refuserve.md",
+    "path": "projects/2017/refuserve.md",
+    "source": "https://github.com/AnandChowdhary/projects/blob/main/projects/2017/refuserve.md",
+    "title": "RefuServe",
+    "date": "2017-11-19T00:00:00.000Z",
+    "excerpt": "is a chatbot app that helps you develop your skills by recommending videos and translating them in your native language, along with automatically generating resumes for you in multiple languages. No matter where you're from,",
+    "words": 95
+  },
+  {
+    "slug": "blueboard.md",
+    "path": "projects/2018/blueboard.md",
+    "source": "https://github.com/AnandChowdhary/projects/blob/main/projects/2018/blueboard.md",
+    "title": "Blueboard",
+    "date": "2018-01-23T00:00:00.000Z",
+    "words": 209
+  },
+  {
+    "slug": "csunite.md",
+    "path": "projects/2018/csunite.md",
+    "source": "https://github.com/AnandChowdhary/projects/blob/main/projects/2018/csunite.md",
+    "title": "CSUnite",
+    "date": "2018-03-11T00:00:00.000Z",
+    "excerpt": "is an app for hyperlocal on-demand cleaning services, along with a built-in training and communication platform for employees. The Progressive Web App was built using Vue.js and Vuetify.js (a material design framework) in 24 hours. It also featured accessibility settings and user ratings, and our pitch included concepts of VR training using Google Cardboard and an Apple Watch app. View GitHub repo &rarr;",
+    "words": 134
+  },
+  {
+    "slug": "drillmaps.md",
+    "path": "projects/2018/drillmaps.md",
+    "source": "https://github.com/AnandChowdhary/projects/blob/main/projects/2018/drillmaps.md",
+    "title": "DrillMaps",
+    "date": "2018-03-11T00:00:00.000Z",
+    "excerpt": ", a horizontal directional drilling startup based in Seattle, WA. I designed and developed their new website, along with coherent icons for their products. The website was built using Vue.js and included Firebase's authentication and real-time database for mapping and visualization. It also integrated with Chargebee and Stripe for billing and subscriptions.\n\n[Visit",
+    "words": 111
+  },
+  {
+    "slug": "ibm-iot-escape-room.md",
+    "path": "projects/2018/ibm-iot-escape-room.md",
+    "source": "https://github.com/AnandChowdhary/projects/blob/main/projects/2018/ibm-iot-escape-room.md",
+    "title": "IBM IoT Escape Room",
+    "date": "2018-04-12T00:00:00.000Z",
+    "words": 156
+  },
+  {
+    "slug": "wendy.md",
+    "path": "projects/2018/wendy.md",
+    "source": "https://github.com/AnandChowdhary/projects/blob/main/projects/2018/wendy.md",
+    "title": "Wendy",
+    "date": "2018-05-27T00:00:00.000Z",
+    "excerpt": ", a smartphone-based home security system with real-time face detection and a chatbot interface. Instead of a €200 Nest device,",
+    "words": 133
+  },
+  {
+    "slug": "shravan-apps.md",
+    "path": "projects/2018/shravan-apps.md",
+    "source": "https://github.com/AnandChowdhary/projects/blob/main/projects/2018/shravan-apps.md",
+    "title": "Shravan Apps",
+    "date": "2018-10-18T00:00:00.000Z",
+    "excerpt": "are a set of smartphones apps for Android and iOS devices for people with disabilities. I envisioned a suite of apps for living with a specific disability.",
+    "words": 41
+  },
+  {
+    "slug": "clshare.md",
+    "path": "projects/2018/clshare.md",
+    "source": "https://github.com/AnandChowdhary/projects/blob/main/projects/2018/clshare.md",
+    "title": "CLShare",
+    "date": "2018-11-17T00:00:00.000Z",
+    "excerpt": ", an app to help CLS Group with employee engagement. The app was the winner of the CLS Engagement App Challenge in London and uses a combination of an AI chatbot with employee-to-employee communication to foster engagement. View GitHub repo &rarr;\n\nThe product was a progressive web app built using Vue/Nuxt.js powered by Firebase. Employers and HR staff could visualize emotions of their employees' conversations using sentimental analysis (without sharing the contents of said chats) and also rec",
+    "words": 162
+  },
+  {
+    "slug": "aristotle.md",
+    "path": "projects/2018/aristotle.md",
+    "source": "https://github.com/AnandChowdhary/projects/blob/main/projects/2018/aristotle.md",
+    "title": "Aristotle",
+    "date": "2018-11-30T00:00:00.000Z",
+    "excerpt": ", an AI-powered e-learning platform for the schools of Limburg. The app was the winner of the Education category at Brighthack in Heerlen. For students, it automatically finds the best content from a variety of sources (like Khan Academy, Wikipedia, study material websites, etc.), and offers gamification and quizzes to better understand the syllabus. For teachers, it offers actionable analytics such as per-student performance.",
+    "words": 194
+  },
+  {
+    "slug": "scrub.md",
+    "path": "projects/2019/scrub.md",
+    "source": "https://github.com/AnandChowdhary/projects/blob/main/projects/2019/scrub.md",
+    "title": "Scrub",
+    "date": "2019-05-18T00:00:00.000Z",
+    "words": 143
+  },
+  {
+    "slug": "staart.md",
+    "path": "projects/2019/staart.md",
+    "source": "https://github.com/AnandChowdhary/projects/blob/main/projects/2019/staart.md",
+    "title": "Staart",
+    "date": "2019-09-01T00:00:00.000Z",
+    "excerpt": "is a set of starter templates to build a SaaS (software-as-a-service) startup using Node.js and TypeScript. It has built-in authentication (with 2FA and OAuth2 connect), team management with roles and invites, recurring payments with Stripe, an API gateway with rate limiting and billing, and more.",
+    "words": 111
+  },
+  {
     "slug": "type-with-tobias.md",
+    "path": "projects/2019/type-with-tobias.md",
+    "source": "https://github.com/AnandChowdhary/projects/blob/main/projects/2019/type-with-tobias.md",
     "title": "Type with Tobias",
     "date": "2019-12-09T00:00:00.000Z",
-    "excerpt": "From September to December 2019, I studied Typography at Santa Clara University in California as part of my minor semester abroad. One of the projects I designed was a brochure, ticket, and design system for a typography event featuring iconic designer Tobias Frere-Jones.",
-    "words": 113
+    "words": 87
   },
   {
     "slug": "uppload.md",
+    "path": "projects/2020/uppload.md",
+    "source": "https://github.com/AnandChowdhary/projects/blob/main/projects/2020/uppload.md",
     "title": "Uppload",
     "date": "2020-01-01T00:00:00.000Z",
-    "words": 204
+    "excerpt": "is a JavaScript file uploading widget I designed and developed. I initially built the plugin in April 2018, and then built the second version in late 2019 and released it in early 2020.",
+    "words": 172
   }
 ]

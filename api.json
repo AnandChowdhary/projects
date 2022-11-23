@@ -84,7 +84,7 @@
       ],
       "bg": "#a03c0c",
       "style": "padded",
-      "img_src": "/images/portfolio/internet.org_2x",
+      "img_src": "/assets/internetorg/internet.org_2x",
       "img_type": "png",
       "icon": "/assets/internetorg/icon.png",
       "tools": [
@@ -178,7 +178,7 @@
       "client": "Unifiers",
       "timeline": "2 months",
       "style": "padded",
-      "img_src": "/images/portfolio/unifiers_2x",
+      "img_src": "/assets/unifiers/unifiers_2x",
       "img_type": "png",
       "stack": [
         "PHP",
@@ -208,7 +208,7 @@
         "Web",
         "Branding"
       ],
-      "img_src": "/images/portfolio/cyankart_2x",
+      "img_src": "/assets/cyankart/cyankart_2x",
       "img_type": "png",
       "style": "cover",
       "tools": [
@@ -238,7 +238,7 @@
       "style": "cover",
       "timeline": "1 month",
       "client": "IDII",
-      "img_src": "/images/portfolio/project-blue_2x",
+      "img_src": "/assets/project-blue/project-blue_2x",
       "img_type": "png",
       "tools": [
         "Photoshop"
@@ -269,7 +269,7 @@
       "client": "Justice Adda",
       "style": "padded",
       "timeline": "14 months",
-      "img_src": "/images/portfolio/justice-adda_2x",
+      "img_src": "/assets/justice-adda/justice-adda_2x",
       "img_type": "png",
       "tools": [
         "WordPress",
@@ -300,7 +300,7 @@
         "Branding",
         "Web"
       ],
-      "img_src": "/images/portfolio/saga-music_2x",
+      "img_src": "/assets/saga-music/saga-music_2x",
       "img_type": "png",
       "style": "padded",
       "stack": [
@@ -337,7 +337,7 @@
       "timeline": "2 weeks",
       "style": "padded",
       "client": "SixteenInches",
-      "img_src": "/images/portfolio/sixteeninches_2x",
+      "img_src": "/assets/sixteeninches/sixteeninches_2x",
       "img_type": "png",
       "tools": [
         "Shopify",
@@ -369,7 +369,7 @@
       "client": "Crink Jewel",
       "timeline": "2 months",
       "style": "cover",
-      "img_src": "/images/portfolio/crink-jewel_2x",
+      "img_src": "/assets/crink-jewel/crink-jewel_2x",
       "img_type": "png",
       "tools": [
         "Photoshop",
@@ -398,7 +398,7 @@
       ],
       "bg": "#de9945",
       "timeline": "24 hours",
-      "img_src": "/images/portfolio/baymax_2x",
+      "img_src": "/assets/baymax/baymax_2x",
       "img_type": "png",
       "style": "padded",
       "collaborators": [
@@ -428,7 +428,7 @@
         "App"
       ],
       "timeline": "4 days",
-      "img_src": "/images/portfolio/keeep_2x",
+      "img_src": "/assets/keeep/keeep_2x",
       "img_type": "png",
       "style": "padded",
       "stack": [
@@ -459,7 +459,7 @@
       ],
       "style": "cover",
       "timeline": "2 months",
-      "img_src": "/images/portfolio/firangana_2x",
+      "img_src": "/assets/firangana/firangana_2x",
       "img_type": "png",
       "stack": [
         "PHP"
@@ -491,7 +491,7 @@
       "bg": "#00a48d",
       "timeline": "6 weeks",
       "client": "GNCTD",
-      "img_src": "/images/portfolio/delhi-government_2x",
+      "img_src": "/assets/delhi-government/delhi-government_2x",
       "img_type": "png",
       "style": "padded",
       "icon": "/assets/delhi-government/icon.png",
@@ -554,7 +554,7 @@
       "bg": "#217ed0",
       "timeline": "24 hours",
       "client": "P&G",
-      "img_src": "/images/portfolio/naari_2x",
+      "img_src": "/assets/naari/naari_2x",
       "img_type": "png",
       "style": "padded",
       "collaborators": [
@@ -587,7 +587,7 @@
         "Branding",
         "Startup"
       ],
-      "img_src": "/images/portfolio/melangebox_2x",
+      "img_src": "/assets/melangebox/melangebox_2x",
       "img_type": "png",
       "style": "padded",
       "tools": [
@@ -622,7 +622,7 @@
       ],
       "bg": "#27577a",
       "style": "padded",
-      "img_src": "/images/portfolio/bharathacks_2x",
+      "img_src": "/assets/bharathacks/bharathacks_2x",
       "img_type": "png"
     }
   },
@@ -682,7 +682,7 @@
       ],
       "client": "AWS",
       "timeline": "24 hours",
-      "img_src": "/images/portfolio/facematch_2x",
+      "img_src": "/assets/facematch/facematch_2x",
       "img_type": "png",
       "style": "cover",
       "stack": [
@@ -717,7 +717,7 @@
       "client": "ADE",
       "timeline": "24 hours",
       "bg": "#de2a49",
-      "img_src": "/images/portfolio/capella_2x",
+      "img_src": "/assets/capella/capella_2x",
       "img_type": "png",
       "style": "padded",
       "award_position": 2,
@@ -752,7 +752,7 @@
         "AI"
       ],
       "bg": "#0097a8",
-      "img_src": "/images/portfolio/refuserve_2x",
+      "img_src": "/assets/refuserve/refuserve_2x",
       "img_type": "png",
       "style": "padded",
       "stack": [
@@ -786,7 +786,7 @@
       ],
       "style": "cover",
       "timeline": "2 months",
-      "img_src": "/images/portfolio/blueboard_2x",
+      "img_src": "/assets/blueboard/blueboard_2x",
       "img_type": "png",
       "icon": "/assets/blueboard/icon.png",
       "icon_bg": true,
@@ -822,7 +822,7 @@
       "bg": "#00998e",
       "client": "CSU",
       "timeline": "24 hours",
-      "img_src": "/images/portfolio/csunite_2x",
+      "img_src": "/assets/csunite/csunite_2x",
       "img_type": "png",
       "style": "padded",
       "award": "€2,500",
@@ -859,7 +859,7 @@
       "bg": "#009cff",
       "timeline": "6 weeks",
       "client": "Drill Maps, Inc.",
-      "img_src": "/images/portfolio/drillmaps_2x",
+      "img_src": "/assets/drillmaps/drillmaps_2x",
       "img_type": "png",
       "style": "padded",
       "stack": [
@@ -895,7 +895,7 @@
       "client": "IBM Netherlands",
       "timeline": "2 months",
       "style": "cover",
-      "img_src": "/images/portfolio/ibm-iot-escape-room_2x",
+      "img_src": "/assets/ibm-iot-escape-room/ibm-iot-escape-room_2x",
       "img_type": "png",
       "stack": [
         "JavaScript"
@@ -930,7 +930,7 @@
         "IoT"
       ],
       "style": "cover",
-      "img_src": "/images/portfolio/wendy_2x",
+      "img_src": "/assets/wendy/wendy_2x",
       "img_type": "png",
       "stack": [
         "JavaScript",

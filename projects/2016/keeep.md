@@ -7,7 +7,7 @@ date: 2016-01-24
 bg: "#8d9ba6"
 work: ["App"]
 timeline: 4 days
-img_src: /images/portfolio/keeep_2x
+img_src: /assets/keeep/keeep_2x
 img_type: png
 style: padded
 stack: ["C++"]
@@ -43,5 +43,5 @@ Keeep is a lightweight password management and encryption utility for Windows. I
   <div><img alt="" src="/assets/keeep/7.jpg"></div>
 </div>
 <div class="images">
-  <img alt="" src="/images/portfolio/keeep_2x.png">
+  <img alt="" src="/assets/keeep/keeep_2x.png">
 </div>

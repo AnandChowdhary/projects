@@ -8,7 +8,7 @@ icon: /assets/baymax/icon.png
 work: ["App", "Branding"]
 bg: "#de9945"
 timeline: 24 hours
-img_src: /images/portfolio/baymax_2x
+img_src: /assets/baymax/baymax_2x
 img_type: png
 style: padded
 collaborators: ["nishant-gadihoke"]

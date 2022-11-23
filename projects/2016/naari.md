@@ -9,7 +9,7 @@ work: ["App", "AI"]
 bg: "#217ed0"
 timeline: 24 hours
 client: P&G
-img_src: /images/portfolio/naari_2x
+img_src: /assets/naari/naari_2x
 img_type: png
 style: padded
 collaborators: ["nishant-gadihoke"]

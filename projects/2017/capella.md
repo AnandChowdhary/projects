@@ -9,7 +9,7 @@ work: ["App"]
 client: ADE
 timeline: 24 hours
 bg: "#de2a49"
-img_src: /images/portfolio/capella_2x
+img_src: /assets/capella/capella_2x
 img_type: png
 style: padded
 award_position: 2

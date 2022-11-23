@@ -7,7 +7,7 @@ date: 2018-01-23
 work: ["IoT", "Hardware"]
 style: cover
 timeline: 2 months
-img_src: /images/portfolio/blueboard_2x
+img_src: /assets/blueboard/blueboard_2x
 img_type: png
 icon: /assets/blueboard/icon.png
 icon_bg: true

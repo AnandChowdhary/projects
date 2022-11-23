@@ -8,7 +8,7 @@ bg: "#d7eed0"
 client: Unifiers
 timeline: 2 months
 style: padded
-img_src: /images/portfolio/unifiers_2x
+img_src: /assets/unifiers/unifiers_2x
 img_type: png
 stack: ["PHP", "JavaScript"]
 icon: /assets/unifiers/icon.png
@@ -20,7 +20,7 @@ For 3 years, I worked part-time as a consultant to Unifiers Social Ventures Pvt.
 
 I lead the development on SkillsTrainer, India's first online train-the-trainer platform built in collaboration with government agencies and large corporations. Using SkillsTrainer, people could complete entire skilling programs online, get certified, and find jobs.
 
-![SkillsTrainer screenshot](/images/portfolio/unifiers_2x.png)
+![SkillsTrainer screenshot](/assets/unifiers/unifiers_2x.png)
 
 ## Nayee Disha
 

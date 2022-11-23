@@ -9,7 +9,7 @@ client: Trivago
 timeline: 24 hours
 work: ["App", "AI"]
 bg: "#0097a8"
-img_src: /images/portfolio/refuserve_2x
+img_src: /assets/refuserve/refuserve_2x
 img_type: png
 style: padded
 stack: ["JavaScript"]

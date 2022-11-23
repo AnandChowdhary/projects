@@ -8,7 +8,7 @@ work: ["Web", "Branding"]
 bg: "#009cff"
 timeline: 6 weeks
 client: Drill Maps, Inc.
-img_src: /images/portfolio/drillmaps_2x
+img_src: /assets/drillmaps/drillmaps_2x
 img_type: png
 style: padded
 stack: ["JavaScript"]

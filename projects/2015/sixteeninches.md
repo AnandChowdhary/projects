@@ -10,7 +10,7 @@ work: ["App", "Branding", "Web"]
 timeline: 2 weeks
 style: padded
 client: SixteenInches
-img_src: /images/portfolio/sixteeninches_2x
+img_src: /assets/sixteeninches/sixteeninches_2x
 img_type: png
 tools: ["Shopify", "Photoshop", "Illustrator"]
 ---

@@ -8,7 +8,7 @@ icon: /assets/firangana/icon.png
 work: ["Branding", "Web", "Startup"]
 style: cover
 timeline: 2 months
-img_src: /images/portfolio/firangana_2x
+img_src: /assets/firangana/firangana_2x
 img_type: png
 stack: ["PHP"]
 tools: ["Photoshop", "WordPress", "Woocommerce"]

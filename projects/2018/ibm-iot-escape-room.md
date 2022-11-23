@@ -8,7 +8,7 @@ work: ["IoT", "Hardware"]
 client: IBM Netherlands
 timeline: 2 months
 style: cover
-img_src: /images/portfolio/ibm-iot-escape-room_2x
+img_src: /assets/ibm-iot-escape-room/ibm-iot-escape-room_2x
 img_type: png
 stack: ["JavaScript"]
 tools: ["Firebase", "Node.js", "Vue.js"]

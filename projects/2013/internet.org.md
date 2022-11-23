@@ -7,7 +7,7 @@ date: 2013-10-11
 work: ["Branding", "Web"]
 bg: "#a03c0c"
 style: padded
-img_src: /images/portfolio/internet.org_2x
+img_src: /assets/internetorg/internet.org_2x
 img_type: png
 icon: /assets/internetorg/icon.png
 tools: ["Photoshop", "Illustrator"]

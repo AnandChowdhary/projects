@@ -9,7 +9,7 @@ timeline: 3 months
 work: ["Event", "Branding", "Web"]
 bg: "#27577a"
 style: padded
-img_src: /images/portfolio/bharathacks_2x
+img_src: /assets/bharathacks/bharathacks_2x
 img_type: png
 ---
 

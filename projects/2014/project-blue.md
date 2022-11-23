@@ -8,7 +8,7 @@ work: ["Branding", "Industrial Design"]
 style: cover
 timeline: 1 month
 client: IDII
-img_src: /images/portfolio/project-blue_2x
+img_src: /assets/project-blue/project-blue_2x
 img_type: png
 tools: ["Photoshop"]
 icon: /assets/project-blue/icon.png
@@ -19,7 +19,7 @@ Project Blue, originally standing for 'Bottles, Linkages, and their Underlining 
 According to the National Association for PET Container Resources (NAPCOR), the gross water bottle recycling rate was only 38.6% last year. This means that almost 2 out of 3 bottles are pollution our planet, and I tried to create a better way.
 
 <div class="two-images">
-  <div><img alt="" src="/images/portfolio/project-blue_2x.png"></div>
+  <div><img alt="" src="/assets/project-blue/project-blue_2x.png"></div>
   <div><img alt="" src="/assets/project-blue/1.png"></div>
 </div>
 

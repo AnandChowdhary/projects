@@ -9,7 +9,7 @@ icon_bg: true
 work: ["App", "AI"]
 client: AWS
 timeline: 24 hours
-img_src: /images/portfolio/facematch_2x
+img_src: /assets/facematch/facematch_2x
 img_type: png
 style: cover
 stack: ["JavaScript", "Python"]
@@ -35,4 +35,4 @@ It also uses object and scene detection, so you can just point your camera in th
 
 FaceMatch uses Amazon Rekognition, a service that lets you quickly add sophisticated deep learning-based visual search and image classification to apps. I ended up using Face Comparison, Facial Analysis, and Object and Scene Detection APIs.
 
-<div class="image"><img alt="" src="/images/portfolio/facematch_2x.png"></div>
+<div class="image"><img alt="" src="/assets/facematch/facematch_2x.png"></div>

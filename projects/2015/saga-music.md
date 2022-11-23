@@ -9,7 +9,7 @@ icon_bg: true
 bg: "#00c1d7"
 timeline: 2 months
 work: ["App", "Branding", "Web"]
-img_src: /images/portfolio/saga-music_2x
+img_src: /assets/saga-music/saga-music_2x
 img_type: png
 style: padded
 stack: ["PHP", "JavaScript", "Java"]

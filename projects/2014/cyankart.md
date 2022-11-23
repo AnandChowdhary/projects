@@ -8,7 +8,7 @@ icon: /assets/cyankart/icon.png
 client: Cyankart
 timeline: 2 months
 work: ["Web", "Branding"]
-img_src: /images/portfolio/cyankart_2x
+img_src: /assets/cyankart/cyankart_2x
 img_type: png
 style: cover
 tools: ["Shopify", "Photoshop"]

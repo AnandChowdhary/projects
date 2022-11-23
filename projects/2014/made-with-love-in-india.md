@@ -36,5 +36,5 @@ Made with Love in India is a platform to celebrate, promote, and build a brand -
 </div>
 <div class="two-images scale">
   <div><img alt="" src="/assets/mwlii/cover.png"></div>
-  <div><img alt="" src="/images/portfolio/made-with-love-in-india_2x.png"></div>
+  <div><img alt="" src="/assets/mwlii/made-with-love-in-india_2x.png"></div>
 </div>

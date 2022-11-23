@@ -9,7 +9,7 @@ work: ["App"]
 bg: "#00998e"
 client: CSU
 timeline: 24 hours
-img_src: /images/portfolio/csunite_2x
+img_src: /assets/csunite/csunite_2x
 img_type: png
 style: padded
 award: €2,500

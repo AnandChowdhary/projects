@@ -8,7 +8,7 @@ icon: /assets/melangebox/icon.png
 icon_bg: true
 bg: "#0095de"
 work: ["Web", "Branding", "Startup"]
-img_src: /images/portfolio/melangebox_2x
+img_src: /assets/melangebox/melangebox_2x
 img_type: png
 style: padded
 tools: ["Shopify", "Illustrator"]

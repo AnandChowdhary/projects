@@ -8,7 +8,7 @@ work: ["App"]
 bg: "#00a48d"
 timeline: 6 weeks
 client: GNCTD
-img_src: /images/portfolio/delhi-government_2x
+img_src: /assets/delhi-government/delhi-government_2x
 img_type: png
 style: padded
 icon: /assets/delhi-government/icon.png

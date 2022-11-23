@@ -10,7 +10,7 @@ work: ["Branding", "Web"]
 client: Crink Jewel
 timeline: 2 months
 style: cover
-img_src: /images/portfolio/crink-jewel_2x
+img_src: /assets/crink-jewel/crink-jewel_2x
 img_type: png
 tools: ["Photoshop", "Illustrator"]
 ---

@@ -7,7 +7,7 @@ icon: /assets/wendy/icon.png
 timeline: 24 hours
 work: ["App", "AI", "IoT"]
 style: cover
-img_src: /images/portfolio/wendy_2x
+img_src: /assets/wendy/wendy_2x
 img_type: png
 stack: ["JavaScript", "Python"]
 tools: ["Vue.js", "Firebase"]

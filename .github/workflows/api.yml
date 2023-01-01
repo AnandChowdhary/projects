@@ -20,7 +20,7 @@ jobs:
         with:
           token: "${{ secrets.GITHUB_TOKEN }}"
           commitMessage: ":pencil: Update projects summary [skip ci]"
-          dirName: "projects"
+          directory: "projects"
       - name: Dispatch AnandChowdhary/everything update
         uses: benc-uk/workflow-dispatch@v1.2.2
         with:

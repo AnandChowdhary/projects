@@ -1158,11 +1158,11 @@
       "intro": "Interactive marketing website and landing pages for Pabio",
       "date": "2021-05-21T00:00:00.000Z",
       "work": [
-        "Web"
+        "Web",
+        "Pabio"
       ],
       "bg": "#ed7470",
       "style": "cover",
-      "company": "Pabio",
       "img_src": "/assets/pabio-website/homepage-above-fold",
       "img_type": "jpg",
       "stack": [
@@ -1177,21 +1177,77 @@
     "slug": "pabio-onboarding.md",
     "path": "projects/2021/pabio-onboarding.md",
     "source": "https://github.com/AnandChowdhary/projects/blob/main/projects/2021/pabio-onboarding.md",
-    "title": "Pabio Onboarding",
+    "title": "Onboarding on Pabio.com",
     "date": "2021-12-22T00:00:00.000Z",
-    "excerpt": "On the Pabio website, we designed a new onboarding flow to help users get started with the service and better qualify leads. The flow starts with a style quiz, which asks users to select their preferred interior design styles from a set of images. The quiz is followed by a short form to collect contact information and a few more questions about the user's needs.\n\nhttps://youtu.be/8XnSy58YPPg\n\nStep 1\nStyle description in step 1\nStep 2\nStep 3\nStep 7\nStep 13",
+    "excerpt": "On the Pabio website, we designed a new onboarding flow to help users get started with the service and better qualify leads. The flow starts with a style quiz, which asks users to select their preferred interior design styles from a set of images. The quiz is followed by a short form to collect contact information and a few more questions about the user's needs.",
     "attributes": {
-      "title": "Pabio Onboarding",
+      "title": "Onboarding on Pabio.com",
       "tags": "projects",
       "intro": "Style quiz and onboarding flow for Pabio's personalized interior design and furniture rental service",
       "date": "2021-12-22T00:00:00.000Z",
       "work": [
-        "Web"
+        "Web",
+        "Pabio"
       ],
       "bg": "#ed7470",
       "style": "cover",
-      "company": "Pabio",
-      "img_src": "/assets/pabio-onboarding/1q",
+      "img_src": "/assets/pabio-onboarding/cover",
+      "img_type": "jpg",
+      "stack": [
+        "TypeScript",
+        "React",
+        "Next.js",
+        "Tailwind CSS"
+      ]
+    }
+  },
+  {
+    "slug": "pabio-proposal.md",
+    "path": "projects/2021/pabio-proposal.md",
+    "source": "https://github.com/AnandChowdhary/projects/blob/main/projects/2021/pabio-proposal.md",
+    "title": "Proposals on Pabio.com",
+    "date": "2021-12-22T00:00:00.000Z",
+    "excerpt": "After a customer completes the onboarding flow and has as interior design consulting call, we generate a personalized proposal for them. The proposal includes a list of furniture items, a a 3D photorealistic rendering of their furnished apartment, and a price breakdown. Dashboard\n\nThe customer logs in to their account on Pabio.com to view their proposal. From their dashboard, they can also manage deliveries, view and pay invoices, claim insurance,",
+    "attributes": {
+      "title": "Proposals on Pabio.com",
+      "tags": "projects",
+      "intro": "Interactive proposals with photorealistic renders for Pabio",
+      "date": "2021-12-22T00:00:00.000Z",
+      "work": [
+        "Web",
+        "Pabio"
+      ],
+      "bg": "#ed7470",
+      "style": "cover",
+      "img_src": "/assets/pabio-proposal/proposal",
+      "img_type": "jpg",
+      "stack": [
+        "TypeScript",
+        "React",
+        "Next.js",
+        "Tailwind CSS"
+      ]
+    }
+  },
+  {
+    "slug": "pabio-lounge.md",
+    "path": "projects/2022/pabio-lounge.md",
+    "source": "https://github.com/AnandChowdhary/projects/blob/main/projects/2022/pabio-lounge.md",
+    "title": "Pabio Lounge",
+    "date": "2022-01-03T00:00:00.000Z",
+    "excerpt": "is Pabio's internal operating system. It's a web-based ERP, CRM, CMS, and inventory management system that we use to manage our sales pipeline, inventory, deliveries, billing, and everything else. The sales pipeline is the real-time dashboard of all our customers and their proposals. We can see the status of each proposal and track it as it moves down from sign up to sending the proposal to the customer to signing the contract to delivering the furniture.",
+    "attributes": {
+      "title": "Pabio Lounge",
+      "tags": "projects",
+      "intro": "Internal ERP and inventory management system for Pabio",
+      "date": "2022-01-03T00:00:00.000Z",
+      "work": [
+        "Web",
+        "Pabio"
+      ],
+      "bg": "#ed7470",
+      "style": "cover",
+      "img_src": "/assets/pabio-lounge/cover",
       "img_type": "jpg",
       "stack": [
         "TypeScript",

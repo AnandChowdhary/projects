@@ -8,11 +8,16 @@ This repository contains my projects.
 
 ## 🌯 Summary
 
-- 38 projects in 10 years
+- 40 projects in 11 years
+
+### 2022
+
+- [Pabio Lounge](./projects/2022/pabio-lounge.md)
 
 ### 2021
 
-- [Pabio Onboarding](./projects/2021/pabio-onboarding.md)
+- [Onboarding on Pabio.com](./projects/2021/pabio-onboarding.md)
+- [Proposals on Pabio.com](./projects/2021/pabio-proposal.md)
 - [Pabio.com](./projects/2021/pabio-website.md)
 
 ### 2020

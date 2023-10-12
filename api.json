@@ -1172,5 +1172,33 @@
         "Tailwind CSS"
       ]
     }
+  },
+  {
+    "slug": "pabio-onboarding.md",
+    "path": "projects/2021/pabio-onboarding.md",
+    "source": "https://github.com/AnandChowdhary/projects/blob/main/projects/2021/pabio-onboarding.md",
+    "title": "Pabio Onboarding",
+    "date": "2021-12-22T00:00:00.000Z",
+    "excerpt": "On the Pabio website, we designed a new onboarding flow to help users get started with the service and better qualify leads. The flow starts with a style quiz, which asks users to select their preferred interior design styles from a set of images. The quiz is followed by a short form to collect contact information and a few more questions about the user's needs.\n\nhttps://youtu.be/8XnSy58YPPg\n\nStep 1\nStyle description in step 1\nStep 2\nStep 3\nStep 7\nStep 13",
+    "attributes": {
+      "title": "Pabio Onboarding",
+      "tags": "projects",
+      "intro": "Style quiz and onboarding flow for Pabio's personalized interior design and furniture rental service",
+      "date": "2021-12-22T00:00:00.000Z",
+      "work": [
+        "Web"
+      ],
+      "bg": "#ed7470",
+      "style": "cover",
+      "company": "Pabio",
+      "img_src": "/assets/pabio-onboarding/1q",
+      "img_type": "jpg",
+      "stack": [
+        "TypeScript",
+        "React",
+        "Next.js",
+        "Tailwind CSS"
+      ]
+    }
   }
 ]

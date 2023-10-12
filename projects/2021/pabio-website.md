@@ -3,10 +3,9 @@ title: Pabio.com
 tags: projects
 intro: Interactive marketing website and landing pages for Pabio
 date: 2021-05-21
-work: ["Web"]
+work: ["Web", "Pabio"]
 bg: "#ed7470"
 style: cover
-company: Pabio
 img_src: /assets/pabio-website/homepage-above-fold
 img_type: jpg
 stack: ["TypeScript", "React", "Next.js", "Tailwind CSS"]
@@ -58,3 +57,5 @@ Here are some more screenshots of the website:
 ![Contact us](/assets/pabio-website/contact-us.jpg)
 ![Sustainability](/assets/pabio-website/sustainability.jpg)
 ![As seen in](/assets/pabio-website/as-seen-in.jpg)
+
+We also designed a new [onboarding flow](/projects/2021/pabio-onboarding) to help users get started with the service and better qualify leads.

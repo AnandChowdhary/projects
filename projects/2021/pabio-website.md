@@ -28,6 +28,9 @@ We also featured stories of our customers on the case studies page.
 
 ![Case studies page](/assets/pabio-website/case-studies.jpg)
 
+![Case study - before](/assets/pabio-website/before-pabio.jpg)
+![Case study - after](/assets/pabio-website/case-study-results.jpg)
+
 I'm particularly proud of the humble footer, which is information-dense but easy to navigate, with contact information, links, social media, and a locale switcher. Our system automatically detects the user's country and preferred language (we serve Switzerland and Germany in English, German, or French), but we made it easy to switch to another locale if needed.
 
 ![Footer](/assets/pabio-website/footer.jpg)
@@ -46,3 +49,12 @@ The team at Cleverclip designed custom illustrations for the website and we also
 
 ![3 simple steps component](/assets/pabio-website/steps.jpg)
 ![Upgrade your apartment component](/assets/pabio-website/upgrade-component.jpg)
+
+Here are some more screenshots of the website:
+
+![Why Pabio?](/assets/pabio-website/why-pabio.jpg)
+![Onboarding](/assets/pabio-website/onboarding-1.jpg)
+![Shop by style](/assets/pabio-website/shop-by-style.jpg)
+![Contact us](/assets/pabio-website/contact-us.jpg)
+![Sustainability](/assets/pabio-website/sustainability.jpg)
+![As seen in](/assets/pabio-website/as-seen-in.jpg)

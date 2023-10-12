@@ -1144,5 +1144,33 @@
       ],
       "award": "Product Hunt #1"
     }
+  },
+  {
+    "slug": "pabio-website.md",
+    "path": "projects/2021/pabio-website.md",
+    "source": "https://github.com/AnandChowdhary/projects/blob/main/projects/2021/pabio-website.md",
+    "title": "Pabio.com",
+    "date": "2021-05-21T00:00:00.000Z",
+    "excerpt": "In May 2021, my team and I rebranded from Koj to Pabio. As part of this, we designed new branding along with a new marketing website with our friends at Cleverclip. Homepage above the fold\n\nWe noticed that some customers only wanted to furnish a part of their homes, so we added a \"Shop by room\" feature to the homepage. This allows customers to select a room and get started with furnishing it right away. Shop by room\n\nTo help customers understand the value of Pabio, we added a \"Compare",
+    "attributes": {
+      "title": "Pabio.com",
+      "tags": "projects",
+      "intro": "Interactive marketing website and landing pages for Pabio",
+      "date": "2021-05-21T00:00:00.000Z",
+      "work": [
+        "Web"
+      ],
+      "bg": "#ed7470",
+      "style": "cover",
+      "company": "Pabio",
+      "img_src": "/assets/pabio-website/homepage-above-fold",
+      "img_type": "jpg",
+      "stack": [
+        "TypeScript",
+        "React",
+        "Next.js",
+        "Tailwind CSS"
+      ]
+    }
   }
 ]

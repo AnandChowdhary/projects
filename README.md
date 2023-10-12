@@ -8,7 +8,11 @@ This repository contains my projects.
 
 ## 🌯 Summary
 
-- 36 projects in 9 years
+- 37 projects in 10 years
+
+### 2021
+
+- [Pabio.com](./projects/2021/pabio-website.md)
 
 ### 2020
 

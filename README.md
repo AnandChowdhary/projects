@@ -12,76 +12,254 @@ This repository contains my projects.
 
 ### 2022
 
-- 🛋️📊🖥️ [Pabio Lounge](./projects/2022/pabio-lounge.md)
+- 🛋️📊🖥️ [**Pabio Lounge**](./projects/2022/pabio-lounge.md)  
+  Internal ERP and inventory management system for Pabio  
+  🏷️ Web, Pabio  
+  💻 TypeScript, React, Next.js, Tailwind CSS
 
 ### 2021
 
-- 🏠🖼️📅 [Onboarding on Pabio.com](./projects/2021/pabio-onboarding.md)
-- 🛋️📐💻 [Proposals on Pabio.com](./projects/2021/pabio-proposal.md)
-- 🏠🛋️🌐 [Pabio.com](./projects/2021/pabio-website.md)
+- 🏠🖼️📅 [**Onboarding on Pabio.com**](./projects/2021/pabio-onboarding.md)  
+  Style quiz and onboarding flow for Pabio's personalized interior design and furniture rental service  
+  🏷️ Web, Pabio  
+  💻 TypeScript, React, Next.js, Tailwind CSS
+
+- 🛋️📐💻 [**Proposals on Pabio.com**](./projects/2021/pabio-proposal.md)  
+  Interactive proposals with photorealistic renders for Pabio  
+  🏷️ Web, Pabio  
+  💻 TypeScript, React, Next.js, Tailwind CSS
+
+- 🏠🛋️🌐 [**Pabio.com**](./projects/2021/pabio-website.md)  
+  Interactive marketing website and landing pages for Pabio  
+  🏷️ Web, Pabio  
+  💻 TypeScript, React, Next.js, Tailwind CSS
 
 ### 2020
 
-- 📁✨🖼️ [Uppload](./projects/2020/uppload.md)
+- 📁✨🖼️ [**Uppload**](./projects/2020/uppload.md)  
+  Open source JavaScript file uploading widget with 30+ plugins to select and edit photos  
+  🏷️ Web, Open source  
+  💻 TypeScript
 
 ### 2019
 
-- 🎨✍️📐 [Type with Tobias](./projects/2019/type-with-tobias.md)
-- 🛠️🚀📱 [Staart](./projects/2019/staart.md)
-- 👩‍💻🐞📊 [Scrub](./projects/2019/scrub.md)
+- 🎨✍️📐 [**Type with Tobias**](./projects/2019/type-with-tobias.md)  
+  Booklet, tickets, and branding for typography and design event at Santa Clara University  
+  🏷️ Branding, Print  
+  🔧 Sketch, InDesign
+
+- 🛠️🚀📱 [**Staart**](./projects/2019/staart.md)  
+  Full-stack SaaS startup starters with recurring payments, authentication, API gateway, and more  
+  🏷️ Web, Open source  
+  🔧 Node.js, Vue.js  
+  💻 TypeScript
+
+- 👩‍💻🐞📊 [**Scrub**](./projects/2019/scrub.md)  
+  Scrum/Agile error mitigation platform with StackOverflow integration powered by open-source bug tracker  
+  🏷️ Web  
+  💻 TypeScript  
+  👥 alex-imbrea, mohit-ahuja
 
 ### 2018
 
-- 📚🤖🎓 [Aristotle](./projects/2018/aristotle.md)
-- 🤖💬🏆 [CLShare](./projects/2018/clshare.md)
-- 📱♿🛠️ [Shravan Apps](./projects/2018/shravan-apps.md)
-- 📱🚪🤖 [Wendy](./projects/2018/wendy.md)
-- 🧩🤖🚪 [IBM IoT Escape Room](./projects/2018/ibm-iot-escape-room.md)
-- 🧹📱⚙️ [CSUnite](./projects/2018/csunite.md)
-- 🛠️🗺️💻 [DrillMaps](./projects/2018/drillmaps.md)
-- 📱🔵📊 [Blueboard](./projects/2018/blueboard.md)
+- 📚🤖🎓 [**Aristotle**](./projects/2018/aristotle.md)  
+  E-learning platform for Limburg's schools with personalized content recommendations and actionable analytics  
+  🏷️ Web, AI  
+  🔧 Vue.js, Firebase  
+  💻 JavaScript, Python  
+  👥 alex-imbrea, maurits-van-der-vijgh
+
+- 🤖💬🏆 [**CLShare**](./projects/2018/clshare.md)  
+  AI-powered employee engagement and chat platform with HR automation and analytics for CLS Group  
+  🏷️ App, AI  
+  🔧 Vue.js  
+  💻 JavaScript  
+  👥 alex-imbrea
+
+- 📱♿🛠️ [**Shravan Apps**](./projects/2018/shravan-apps.md)  
+  Suite of free smartphone apps for people with disabilities like dyslexia, blindness, and deafness  
+  🏷️ Web, Oswald Labs  
+  💻 JavaScript  
+  👥 mahendra-singh-raghuwanshi
+
+- 📱🚪🤖 [**Wendy**](./projects/2018/wendy.md)  
+  Smartphone-based home security system with face detection, AI chatbot, and real-time notifications  
+  🏷️ App, AI, IoT  
+  🔧 Vue.js, Firebase  
+  💻 JavaScript, Python  
+  👥 mohit-ahuja
+
+- 🧩🤖🚪 [**IBM IoT Escape Room**](./projects/2018/ibm-iot-escape-room.md)  
+  Educational escape room built using IoT technology and a real-time database with IBM for a module project in April 2018.  
+  🏷️ IoT, Hardware  
+  🔧 Firebase, Node.js, Vue.js  
+  💻 JavaScript
+
+- 🧹📱⚙️ [**CSUnite**](./projects/2018/csunite.md)  
+  Hyperlocal on-demand cleaning and employee training app for the Netherlands' second-largest cleaning service provider.  
+  🏷️ App  
+  🔧 Vue.js  
+  💻 JavaScript  
+  👥 mohit-ahuja
+
+- 🛠️🗺️💻 [**DrillMaps**](./projects/2018/drillmaps.md)  
+  Platform for Seattle-based horizontal directional drilling company built using Vue.js and integrated with Stripe and Firebase.  
+  🏷️ Web, Branding  
+  🔧 Vue.js, Node.js, Firebase  
+  💻 JavaScript
+
+- 📱🔵📊 [**Blueboard**](./projects/2018/blueboard.md)  
+  Bluetooth-powered smart billboard that shows relevant advertisements and information based on who's passing by it.  
+  🏷️ IoT, Hardware  
+  🔧 Processing, Arduino, Android  
+  💻 C++, Java
 
 ### 2017
 
-- 🤖📚🌍 [RefuServe](./projects/2017/refuserve.md)
-- 🎵📍🤝 [Capella](./projects/2017/capella.md)
-- 🤖📱🕶️ [FaceMatch](./projects/2017/facematch.md)
-- ♿🌐🛠️ [Agastya](./projects/2017/agastya.md)
-- 🇮🇳💡🤝 [BharatHacks](./projects/2017/bharathacks.md)
-- 👗🛒📈 [Melangebox](./projects/2017/melangebox.md)
+- 🤖📚🌍 [**RefuServe**](./projects/2017/refuserve.md)  
+  Elearning platform, job recommendation engine, and resume generator chatbot for Trivago in 24 hours.  
+  🏷️ App, AI  
+  🔧 Vue.js  
+  💻 JavaScript  
+  👥 mohit-ahuja
+
+- 🎵📍🤝 [**Capella**](./projects/2017/capella.md)  
+  Location-based offline friend discovery and music matching app built for Amsterdam Dance Event in 24 hours.  
+  🏷️ App  
+  💻 JavaScript, PHP  
+  👥 mateo-sadowski
+
+- 🤖📱🕶️ [**FaceMatch**](./projects/2017/facematch.md)  
+  Face recognition Augmented Reality app for business events, built at the AWS Hackathon for StartupFest Europe.  
+  🏷️ App, AI  
+  💻 JavaScript, Python  
+  👥 mohit-ahuja
+
+- ♿🌐🛠️ [**Agastya**](./projects/2017/agastya.md)  
+  End-to-end web accessibility plugin with disabled-friendly features and legibility customizations  
+  🏷️ Web, Oswald Labs  
+  🔧 Node.js, Vue.js  
+  💻 TypeScript  
+  👥 mahendra-singh-raghuwanshi
+
+- 🇮🇳💡🤝 [**BharatHacks**](./projects/2017/bharathacks.md)  
+  Hackathon to solve India-specific problems in New Delhi with 200 participants and tens of thousands of dollars in prizes.  
+  🏷️ Event, Branding, Web
+
+- 👗🛒📈 [**Melangebox**](./projects/2017/melangebox.md)  
+  Fashion ecommerce startup delivering high-quality, affordable clothing and accessories internationally.  
+  🏷️ Web, Branding, Startup  
+  🔧 Shopify, Illustrator  
+  👥 mahendra-singh-raghuwanshi
 
 ### 2016
 
-- 👩‍⚕️🩸🤖 [Naari](./projects/2016/naari.md)
-- 📚🧑‍💻♿ [Valmiki](./projects/2016/valmiki.md)
-- 🏫📱🤝 [Delhi Government](./projects/2016/delhi-government.md)
-- 👗🌏🎨 [Firangana](./projects/2016/firangana.md)
-- 🔐💾🛡️ [Keeep](./projects/2016/keeep.md)
+- 👩‍⚕️🩸🤖 [**Naari**](./projects/2016/naari.md)  
+  Period and sexual health companion for women that gives personalized tampon recommendations and access to self-help resources.  
+  🏷️ App, AI  
+  💻 JavaScript  
+  👥 nishant-gadihoke
+
+- 📚🧑‍💻♿ [**Valmiki**](./projects/2016/valmiki.md)  
+  Browser extension for easy reading and web customization for people with dyslexia  
+  🏷️ Web, Oswald Labs  
+  💻 JavaScript  
+  👥 nishant-gadihoke
+
+- 🏫📱🤝 [**Delhi Government**](./projects/2016/delhi-government.md)  
+  Material design UI/UX for the Government of Delhi's program for state schools, School Management Committee (SMC).  
+  🏷️ App  
+  🔧 Illustrator, Photoshop
+
+- 👗🌏🎨 [**Firangana**](./projects/2016/firangana.md)  
+  Branding and web design for fashion brand that combines western clothing with ethnic Indian designs.  
+  🏷️ Branding, Web, Startup  
+  🔧 Photoshop, WordPress, Woocommerce  
+  💻 PHP
+
+- 🔐💾🛡️ [**Keeep**](./projects/2016/keeep.md)  
+  Encryption engine and password manager in C/C++ built for my highschool Computer Science class.  
+  🏷️ App  
+  💻 C++
 
 ### 2015
 
-- 🤖🩺💊 [Baymax](./projects/2015/baymax.md)
-- 💎✨🇮🇳 [Crink Jewel](./projects/2015/crink-jewel.md)
-- 💊🔥🛒 [SixteenInches](./projects/2015/sixteeninches.md)
-- 🎵📱🎶 [Saga Music](./projects/2015/saga-music.md)
+- 🤖🩺💊 [**Baymax**](./projects/2015/baymax.md)  
+  End-to-end healthcare companies that diagnoses illnesses and helps your recover, along with scheduling and appointments.  
+  🏷️ App, Branding  
+  🔧 Photoshop  
+  👥 nishant-gadihoke
+
+- 💎✨🇮🇳 [**Crink Jewel**](./projects/2015/crink-jewel.md)  
+  Branding and mobile-first Shopify website for one of the fastest-growing precious jewelry companies.  
+  🏷️ Branding, Web  
+  🔧 Photoshop, Illustrator
+
+- 💊🔥🛒 [**SixteenInches**](./projects/2015/sixteeninches.md)  
+  Branding and Shopify theme customization for one of the fastest-growing online supplements stores in India.  
+  🏷️ App, Branding, Web  
+  🔧 Shopify, Photoshop, Illustrator
+
+- 🎵📱🎶 [**Saga Music**](./projects/2015/saga-music.md)  
+  Free music downloading and sharing app for Android and the web. Over 100,000 downloads. Shut down in 2016.  
+  🏷️ App, Branding, Web  
+  🔧 Android  
+  💻 PHP, JavaScript, Java
 
 ### 2014
 
-- ⚖️💻🎨 [Justice Adda](./projects/2014/justice-adda.md)
-- ♻️🚰🔺 [Project Blue](./projects/2014/project-blue.md)
-- 👗📱⚡ [Cyankart](./projects/2014/cyankart.md)
-- 🤝🎓🚀 [Unifiers](./projects/2014/unifiers.md)
-- 🇮🇳❤️🏷️ [Made with Love in India](./projects/2014/made-with-love-in-india.md)
-- 🎓🤝🚀 [ClassRebels](./projects/2014/classrebels.md)
+- ⚖️💻🎨 [**Justice Adda**](./projects/2014/justice-adda.md)  
+  Branding and web design for Cambridge Social Ventures (University of Cambridge) startup trying to break barriers in justice.  
+  🏷️ Branding, Web  
+  🔧 WordPress, InDesign
+
+- ♻️🚰🔺 [**Project Blue**](./projects/2014/project-blue.md)  
+  Plastic bottle industrial redesign project using AutoDesk and SolidWorks for IDII to reduce environmental impact.  
+  🏷️ Branding, Industrial Design  
+  🔧 Photoshop
+
+- 👗📱⚡ [**Cyankart**](./projects/2014/cyankart.md)  
+  Branding, UI/UX, and A/B-tested Shopify theme development for one of India's most popular online fashion stores.  
+  🏷️ Web, Branding  
+  🔧 Shopify, Photoshop
+
+- 🤝🎓🚀 [**Unifiers**](./projects/2014/unifiers.md)  
+  India's first online training platform, built in collaboration with government agencies and large corporates.  
+  🏷️ Web  
+  💻 PHP, JavaScript
+
+- 🇮🇳❤️🏷️ [**Made with Love in India**](./projects/2014/made-with-love-in-india.md)  
+  Platform to celebrate, promote, and build a brand — India. Over 75 organizations use the Made with Love in India badge.  
+  🏷️ Web, Branding  
+  💻 PHP
+
+- 🎓🤝🚀 [**ClassRebels**](./projects/2014/classrebels.md)  
+  Education-technology startup trying to break classroom barriers, products include virtual library and collaborative e-classroom.  
+  🏷️ Branding, Web, Startup  
+  🔧 Photoshop, Illustrator  
+  💻 PHP, Python, JavaScript
 
 ### 2013
 
-- 🌐🎨🖥️ [Internet.org](./projects/2013/internet.org.md)
+- 🌐🎨🖥️ [**Internet.org**](./projects/2013/internet.org.md)  
+  Redesigned brand identity of Internet.org for an event in five hours. Made a trustworthy, user-centric brand.  
+  🏷️ Branding, Web  
+  🔧 Photoshop, Illustrator
 
 ### 2012
 
-- 🚀💻🎨 [PickQuick](./projects/2012/pickquick.md)
-- 🎓🎨🎥 [Global School of Media Crafting](./projects/2012/gsmc.md)
+- 🚀💻🎨 [**PickQuick**](./projects/2012/pickquick.md)  
+  Branding, ecommerce platform for university students to buy, sell, and barter old books  
+  🏷️ Web, Branding  
+  🔧 Photoshop, Illustrator  
+  💻 PHP  
+  👥 akshat-srivastava
+
+- 🎓🎨🎥 [**Global School of Media Crafting**](./projects/2012/gsmc.md)  
+ Designed branding and marketing material and learnt video editing during internship at new-age media school  
+ 🏷️ Branding  
+ 🔧 Photoshop, Illustrator  
+ 👥 akshat-srivastava
 <!--/autogenerated-->
 
 ## ℹ️ About this repository

@@ -28,7 +28,8 @@
       "icon": "/assets/gsmc/icon.png",
       "icon_bg": true
     },
-    "emoji": "🎓🎨🎥"
+    "emoji": "🎓🎨🎥",
+    "caption": "Designed branding and marketing material and learnt video editing during internship at new-age media school\n🏷️ Branding\n🔧 Photoshop, Illustrator\n👥 akshat-srivastava"
   },
   {
     "slug": "pickquick.md",
@@ -62,7 +63,8 @@
       ],
       "icon": "/assets/pickquick/icon.png"
     },
-    "emoji": "🚀💻🎨"
+    "emoji": "🚀💻🎨",
+    "caption": "Branding, ecommerce platform for university students to buy, sell, and barter old books\n🏷️ Web, Branding\n🔧 Photoshop, Illustrator\n💻 PHP\n👥 akshat-srivastava"
   },
   {
     "slug": "internet.org.md",
@@ -91,7 +93,8 @@
         "Illustrator"
       ]
     },
-    "emoji": "🌐🎨🖥️"
+    "emoji": "🌐🎨🖥️",
+    "caption": "Redesigned brand identity of Internet.org for an event in five hours. Made a trustworthy, user-centric brand.\n🏷️ Branding, Web\n🔧 Photoshop, Illustrator"
   },
   {
     "slug": "classrebels.md",
@@ -127,7 +130,8 @@
       "icon": "/assets/classrebels/icon.png",
       "icon_bg": true
     },
-    "emoji": "🎓🤝🚀"
+    "emoji": "🎓🤝🚀",
+    "caption": "Education-technology startup trying to break classroom barriers, products include virtual library and collaborative e-classroom.\n🏷️ Branding, Web, Startup\n🔧 Photoshop, Illustrator\n💻 PHP, Python, JavaScript"
   },
   {
     "slug": "made-with-love-in-india.md",
@@ -156,7 +160,8 @@
         "PHP"
       ]
     },
-    "emoji": "🇮🇳❤️🏷️"
+    "emoji": "🇮🇳❤️🏷️",
+    "caption": "Platform to celebrate, promote, and build a brand — India. Over 75 organizations use the Made with Love in India badge.\n🏷️ Web, Branding\n💻 PHP"
   },
   {
     "slug": "unifiers.md",
@@ -185,7 +190,8 @@
       ],
       "icon": "/assets/unifiers/icon.png"
     },
-    "emoji": "🤝🎓🚀"
+    "emoji": "🤝🎓🚀",
+    "caption": "India's first online training platform, built in collaboration with government agencies and large corporates.\n🏷️ Web\n💻 PHP, JavaScript"
   },
   {
     "slug": "cyankart.md",
@@ -215,7 +221,8 @@
         "Photoshop"
       ]
     },
-    "emoji": "👗📱⚡"
+    "emoji": "👗📱⚡",
+    "caption": "Branding, UI/UX, and A/B-tested Shopify theme development for one of India's most popular online fashion stores.\n🏷️ Web, Branding\n🔧 Shopify, Photoshop"
   },
   {
     "slug": "project-blue.md",
@@ -244,7 +251,8 @@
       ],
       "icon": "/assets/project-blue/icon.png"
     },
-    "emoji": "♻️🚰🔺"
+    "emoji": "♻️🚰🔺",
+    "caption": "Plastic bottle industrial redesign project using AutoDesk and SolidWorks for IDII to reduce environmental impact.\n🏷️ Branding, Industrial Design\n🔧 Photoshop"
   },
   {
     "slug": "justice-adda.md",
@@ -275,7 +283,8 @@
         "InDesign"
       ]
     },
-    "emoji": "⚖️💻🎨"
+    "emoji": "⚖️💻🎨",
+    "caption": "Branding and web design for Cambridge Social Ventures (University of Cambridge) startup trying to break barriers in justice.\n🏷️ Branding, Web\n🔧 WordPress, InDesign"
   },
   {
     "slug": "saga-music.md",
@@ -311,7 +320,8 @@
         "Android"
       ]
     },
-    "emoji": "🎵📱🎶"
+    "emoji": "🎵📱🎶",
+    "caption": "Free music downloading and sharing app for Android and the web. Over 100,000 downloads. Shut down in 2016.\n🏷️ App, Branding, Web\n🔧 Android\n💻 PHP, JavaScript, Java"
   },
   {
     "slug": "sixteeninches.md",
@@ -344,7 +354,8 @@
         "Illustrator"
       ]
     },
-    "emoji": "💊🔥🛒"
+    "emoji": "💊🔥🛒",
+    "caption": "Branding and Shopify theme customization for one of the fastest-growing online supplements stores in India.\n🏷️ App, Branding, Web\n🔧 Shopify, Photoshop, Illustrator"
   },
   {
     "slug": "crink-jewel.md",
@@ -375,7 +386,8 @@
         "Illustrator"
       ]
     },
-    "emoji": "💎✨🇮🇳"
+    "emoji": "💎✨🇮🇳",
+    "caption": "Branding and mobile-first Shopify website for one of the fastest-growing precious jewelry companies.\n🏷️ Branding, Web\n🔧 Photoshop, Illustrator"
   },
   {
     "slug": "baymax.md",
@@ -407,7 +419,8 @@
         "Photoshop"
       ]
     },
-    "emoji": "🤖🩺💊"
+    "emoji": "🤖🩺💊",
+    "caption": "End-to-end healthcare companies that diagnoses illnesses and helps your recover, along with scheduling and appointments.\n🏷️ App, Branding\n🔧 Photoshop\n👥 nishant-gadihoke"
   },
   {
     "slug": "keeep.md",
@@ -435,7 +448,8 @@
       ],
       "icon": "/assets/keeep/icon.png"
     },
-    "emoji": "🔐💾🛡️"
+    "emoji": "🔐💾🛡️",
+    "caption": "Encryption engine and password manager in C/C++ built for my highschool Computer Science class.\n🏷️ App\n💻 C++"
   },
   {
     "slug": "firangana.md",
@@ -469,7 +483,8 @@
         "Woocommerce"
       ]
     },
-    "emoji": "👗🌏🎨"
+    "emoji": "👗🌏🎨",
+    "caption": "Branding and web design for fashion brand that combines western clothing with ethnic Indian designs.\n🏷️ Branding, Web, Startup\n🔧 Photoshop, WordPress, Woocommerce\n💻 PHP"
   },
   {
     "slug": "delhi-government.md",
@@ -500,7 +515,8 @@
         "Photoshop"
       ]
     },
-    "emoji": "🏫📱🤝"
+    "emoji": "🏫📱🤝",
+    "caption": "Material design UI/UX for the Government of Delhi's program for state schools, School Management Committee (SMC).\n🏷️ App\n🔧 Illustrator, Photoshop"
   },
   {
     "slug": "valmiki.md",
@@ -530,7 +546,8 @@
         "nishant-gadihoke"
       ]
     },
-    "emoji": "📚🧑‍💻♿"
+    "emoji": "📚🧑‍💻♿",
+    "caption": "Browser extension for easy reading and web customization for people with dyslexia\n🏷️ Web, Oswald Labs\n💻 JavaScript\n👥 nishant-gadihoke"
   },
   {
     "slug": "naari.md",
@@ -563,7 +580,8 @@
         "JavaScript"
       ]
     },
-    "emoji": "👩‍⚕️🩸🤖"
+    "emoji": "👩‍⚕️🩸🤖",
+    "caption": "Period and sexual health companion for women that gives personalized tampon recommendations and access to self-help resources.\n🏷️ App, AI\n💻 JavaScript\n👥 nishant-gadihoke"
   },
   {
     "slug": "melangebox.md",
@@ -597,7 +615,8 @@
         "mahendra-singh-raghuwanshi"
       ]
     },
-    "emoji": "👗🛒📈"
+    "emoji": "👗🛒📈",
+    "caption": "Fashion ecommerce startup delivering high-quality, affordable clothing and accessories internationally.\n🏷️ Web, Branding, Startup\n🔧 Shopify, Illustrator\n👥 mahendra-singh-raghuwanshi"
   },
   {
     "slug": "bharathacks.md",
@@ -624,7 +643,8 @@
       "img_src": "/assets/bharathacks/bharathacks_2x",
       "img_type": "png"
     },
-    "emoji": "🇮🇳💡🤝"
+    "emoji": "🇮🇳💡🤝",
+    "caption": "Hackathon to solve India-specific problems in New Delhi with 200 participants and tens of thousands of dollars in prizes.\n🏷️ Event, Branding, Web"
   },
   {
     "slug": "agastya.md",
@@ -658,7 +678,8 @@
         "mahendra-singh-raghuwanshi"
       ]
     },
-    "emoji": "♿🌐🛠️"
+    "emoji": "♿🌐🛠️",
+    "caption": "End-to-end web accessibility plugin with disabled-friendly features and legibility customizations\n🏷️ Web, Oswald Labs\n🔧 Node.js, Vue.js\n💻 TypeScript\n👥 mahendra-singh-raghuwanshi"
   },
   {
     "slug": "facematch.md",
@@ -694,7 +715,8 @@
       "award": "€1,000+",
       "award_position": 1
     },
-    "emoji": "🤖📱🕶️"
+    "emoji": "🤖📱🕶️",
+    "caption": "Face recognition Augmented Reality app for business events, built at the AWS Hackathon for StartupFest Europe.\n🏷️ App, AI\n💻 JavaScript, Python\n👥 mohit-ahuja"
   },
   {
     "slug": "capella.md",
@@ -728,7 +750,8 @@
         "mateo-sadowski"
       ]
     },
-    "emoji": "🎵📍🤝"
+    "emoji": "🎵📍🤝",
+    "caption": "Location-based offline friend discovery and music matching app built for Amsterdam Dance Event in 24 hours.\n🏷️ App\n💻 JavaScript, PHP\n👥 mateo-sadowski"
   },
   {
     "slug": "refuserve.md",
@@ -764,7 +787,8 @@
         "mohit-ahuja"
       ]
     },
-    "emoji": "🤖📚🌍"
+    "emoji": "🤖📚🌍",
+    "caption": "Elearning platform, job recommendation engine, and resume generator chatbot for Trivago in 24 hours.\n🏷️ App, AI\n🔧 Vue.js\n💻 JavaScript\n👥 mohit-ahuja"
   },
   {
     "slug": "blueboard.md",
@@ -799,7 +823,8 @@
         "Android"
       ]
     },
-    "emoji": "📱🔵📊"
+    "emoji": "📱🔵📊",
+    "caption": "Bluetooth-powered smart billboard that shows relevant advertisements and information based on who's passing by it.\n🏷️ IoT, Hardware\n🔧 Processing, Arduino, Android\n💻 C++, Java"
   },
   {
     "slug": "csunite.md",
@@ -836,7 +861,8 @@
         "mohit-ahuja"
       ]
     },
-    "emoji": "🧹📱⚙️"
+    "emoji": "🧹📱⚙️",
+    "caption": "Hyperlocal on-demand cleaning and employee training app for the Netherlands' second-largest cleaning service provider.\n🏷️ App\n🔧 Vue.js\n💻 JavaScript\n👥 mohit-ahuja"
   },
   {
     "slug": "drillmaps.md",
@@ -872,7 +898,8 @@
       "icon": "/assets/drillmaps/icon.png",
       "icon_bg": true
     },
-    "emoji": "🛠️🗺️💻"
+    "emoji": "🛠️🗺️💻",
+    "caption": "Platform for Seattle-based horizontal directional drilling company built using Vue.js and integrated with Stripe and Firebase.\n🏷️ Web, Branding\n🔧 Vue.js, Node.js, Firebase\n💻 JavaScript"
   },
   {
     "slug": "ibm-iot-escape-room.md",
@@ -907,7 +934,8 @@
       "icon": "/assets/ibm-iot-escape-room/icon.png",
       "icon_bg": true
     },
-    "emoji": "🧩🤖🚪"
+    "emoji": "🧩🤖🚪",
+    "caption": "Educational escape room built using IoT technology and a real-time database with IBM for a module project in April 2018.\n🏷️ IoT, Hardware\n🔧 Firebase, Node.js, Vue.js\n💻 JavaScript"
   },
   {
     "slug": "wendy.md",
@@ -943,7 +971,8 @@
         "mohit-ahuja"
       ]
     },
-    "emoji": "📱🚪🤖"
+    "emoji": "📱🚪🤖",
+    "caption": "Smartphone-based home security system with face detection, AI chatbot, and real-time notifications\n🏷️ App, AI, IoT\n🔧 Vue.js, Firebase\n💻 JavaScript, Python\n👥 mohit-ahuja"
   },
   {
     "slug": "shravan-apps.md",
@@ -973,7 +1002,8 @@
         "mahendra-singh-raghuwanshi"
       ]
     },
-    "emoji": "📱♿🛠️"
+    "emoji": "📱♿🛠️",
+    "caption": "Suite of free smartphone apps for people with disabilities like dyslexia, blindness, and deafness\n🏷️ Web, Oswald Labs\n💻 JavaScript\n👥 mahendra-singh-raghuwanshi"
   },
   {
     "slug": "clshare.md",
@@ -1011,7 +1041,8 @@
         "alex-imbrea"
       ]
     },
-    "emoji": "🤖💬🏆"
+    "emoji": "🤖💬🏆",
+    "caption": "AI-powered employee engagement and chat platform with HR automation and analytics for CLS Group\n🏷️ App, AI\n🔧 Vue.js\n💻 JavaScript\n👥 alex-imbrea"
   },
   {
     "slug": "aristotle.md",
@@ -1054,7 +1085,8 @@
         "maurits-van-der-vijgh"
       ]
     },
-    "emoji": "📚🤖🎓"
+    "emoji": "📚🤖🎓",
+    "caption": "E-learning platform for Limburg's schools with personalized content recommendations and actionable analytics\n🏷️ Web, AI\n🔧 Vue.js, Firebase\n💻 JavaScript, Python\n👥 alex-imbrea, maurits-van-der-vijgh"
   },
   {
     "slug": "scrub.md",
@@ -1090,7 +1122,8 @@
         "mohit-ahuja"
       ]
     },
-    "emoji": "👩‍💻🐞📊"
+    "emoji": "👩‍💻🐞📊",
+    "caption": "Scrum/Agile error mitigation platform with StackOverflow integration powered by open-source bug tracker\n🏷️ Web\n💻 TypeScript\n👥 alex-imbrea, mohit-ahuja"
   },
   {
     "slug": "staart.md",
@@ -1122,7 +1155,8 @@
         "Vue.js"
       ]
     },
-    "emoji": "🛠️🚀📱"
+    "emoji": "🛠️🚀📱",
+    "caption": "Full-stack SaaS startup starters with recurring payments, authentication, API gateway, and more\n🏷️ Web, Open source\n🔧 Node.js, Vue.js\n💻 TypeScript"
   },
   {
     "slug": "type-with-tobias.md",
@@ -1149,7 +1183,8 @@
         "InDesign"
       ]
     },
-    "emoji": "🎨✍️📐"
+    "emoji": "🎨✍️📐",
+    "caption": "Booklet, tickets, and branding for typography and design event at Santa Clara University\n🏷️ Branding, Print\n🔧 Sketch, InDesign"
   },
   {
     "slug": "uppload.md",
@@ -1179,7 +1214,8 @@
       ],
       "award": "Product Hunt #1"
     },
-    "emoji": "📁✨🖼️"
+    "emoji": "📁✨🖼️",
+    "caption": "Open source JavaScript file uploading widget with 30+ plugins to select and edit photos\n🏷️ Web, Open source\n💻 TypeScript"
   },
   {
     "slug": "pabio-website.md",
@@ -1208,7 +1244,8 @@
         "Tailwind CSS"
       ]
     },
-    "emoji": "🏠🛋️🌐"
+    "emoji": "🏠🛋️🌐",
+    "caption": "Interactive marketing website and landing pages for Pabio\n🏷️ Web, Pabio\n💻 TypeScript, React, Next.js, Tailwind CSS"
   },
   {
     "slug": "pabio-onboarding.md",
@@ -1237,7 +1274,8 @@
         "Tailwind CSS"
       ]
     },
-    "emoji": "🏠🖼️📅"
+    "emoji": "🏠🖼️📅",
+    "caption": "Style quiz and onboarding flow for Pabio's personalized interior design and furniture rental service\n🏷️ Web, Pabio\n💻 TypeScript, React, Next.js, Tailwind CSS"
   },
   {
     "slug": "pabio-proposal.md",
@@ -1266,7 +1304,8 @@
         "Tailwind CSS"
       ]
     },
-    "emoji": "🛋️📐💻"
+    "emoji": "🛋️📐💻",
+    "caption": "Interactive proposals with photorealistic renders for Pabio\n🏷️ Web, Pabio\n💻 TypeScript, React, Next.js, Tailwind CSS"
   },
   {
     "slug": "pabio-lounge.md",
@@ -1295,6 +1334,7 @@
         "Tailwind CSS"
       ]
     },
-    "emoji": "🛋️📊🖥️"
+    "emoji": "🛋️📊🖥️",
+    "caption": "Internal ERP and inventory management system for Pabio\n🏷️ Web, Pabio\n💻 TypeScript, React, Next.js, Tailwind CSS"
   }
 ]

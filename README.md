@@ -12,76 +12,76 @@ This repository contains my projects.
 
 ### 2022
 
-- [ 🛋️📊🖥️Pabio Lounge](./projects/2022/pabio-lounge.md)
+- 🛋️📊🖥️ [Pabio Lounge](./projects/2022/pabio-lounge.md)
 
 ### 2021
 
-- [ 🏠🖼️📅Onboarding on Pabio.com](./projects/2021/pabio-onboarding.md)
-- [ 🛋️📐💻Proposals on Pabio.com](./projects/2021/pabio-proposal.md)
-- [ 🏠🛋️🌐Pabio.com](./projects/2021/pabio-website.md)
+- 🏠🖼️📅 [Onboarding on Pabio.com](./projects/2021/pabio-onboarding.md)
+- 🛋️📐💻 [Proposals on Pabio.com](./projects/2021/pabio-proposal.md)
+- 🏠🛋️🌐 [Pabio.com](./projects/2021/pabio-website.md)
 
 ### 2020
 
-- [ 📁✨🖼️Uppload](./projects/2020/uppload.md)
+- 📁✨🖼️ [Uppload](./projects/2020/uppload.md)
 
 ### 2019
 
-- [ 🎨✍️📐Type with Tobias](./projects/2019/type-with-tobias.md)
-- [ 🛠️🚀📱Staart](./projects/2019/staart.md)
-- [ 👩‍💻🐞📊Scrub](./projects/2019/scrub.md)
+- 🎨✍️📐 [Type with Tobias](./projects/2019/type-with-tobias.md)
+- 🛠️🚀📱 [Staart](./projects/2019/staart.md)
+- 👩‍💻🐞📊 [Scrub](./projects/2019/scrub.md)
 
 ### 2018
 
-- [ 📚🤖🎓Aristotle](./projects/2018/aristotle.md)
-- [ 🤖💬🏆CLShare](./projects/2018/clshare.md)
-- [ 📱♿🛠️Shravan Apps](./projects/2018/shravan-apps.md)
-- [ 📱🚪🤖Wendy](./projects/2018/wendy.md)
-- [ 🧩🤖🚪IBM IoT Escape Room](./projects/2018/ibm-iot-escape-room.md)
-- [ 🧹📱⚙️CSUnite](./projects/2018/csunite.md)
-- [ 🛠️🗺️💻DrillMaps](./projects/2018/drillmaps.md)
-- [ 📱🔵📊Blueboard](./projects/2018/blueboard.md)
+- 📚🤖🎓 [Aristotle](./projects/2018/aristotle.md)
+- 🤖💬🏆 [CLShare](./projects/2018/clshare.md)
+- 📱♿🛠️ [Shravan Apps](./projects/2018/shravan-apps.md)
+- 📱🚪🤖 [Wendy](./projects/2018/wendy.md)
+- 🧩🤖🚪 [IBM IoT Escape Room](./projects/2018/ibm-iot-escape-room.md)
+- 🧹📱⚙️ [CSUnite](./projects/2018/csunite.md)
+- 🛠️🗺️💻 [DrillMaps](./projects/2018/drillmaps.md)
+- 📱🔵📊 [Blueboard](./projects/2018/blueboard.md)
 
 ### 2017
 
-- [ 🤖📚🌍RefuServe](./projects/2017/refuserve.md)
-- [ 🎵📍🤝Capella](./projects/2017/capella.md)
-- [ 🤖📱🕶️FaceMatch](./projects/2017/facematch.md)
-- [ ♿🌐🛠️Agastya](./projects/2017/agastya.md)
-- [ 🇮🇳💡🤝BharatHacks](./projects/2017/bharathacks.md)
-- [ 👗🛒📈Melangebox](./projects/2017/melangebox.md)
+- 🤖📚🌍 [RefuServe](./projects/2017/refuserve.md)
+- 🎵📍🤝 [Capella](./projects/2017/capella.md)
+- 🤖📱🕶️ [FaceMatch](./projects/2017/facematch.md)
+- ♿🌐🛠️ [Agastya](./projects/2017/agastya.md)
+- 🇮🇳💡🤝 [BharatHacks](./projects/2017/bharathacks.md)
+- 👗🛒📈 [Melangebox](./projects/2017/melangebox.md)
 
 ### 2016
 
-- [ 👩‍⚕️🩸🤖Naari](./projects/2016/naari.md)
-- [ 📚🧑‍💻♿Valmiki](./projects/2016/valmiki.md)
-- [ 🏫📱🤝Delhi Government](./projects/2016/delhi-government.md)
-- [ 👗🌏🎨Firangana](./projects/2016/firangana.md)
-- [ 🔐💾🛡️Keeep](./projects/2016/keeep.md)
+- 👩‍⚕️🩸🤖 [Naari](./projects/2016/naari.md)
+- 📚🧑‍💻♿ [Valmiki](./projects/2016/valmiki.md)
+- 🏫📱🤝 [Delhi Government](./projects/2016/delhi-government.md)
+- 👗🌏🎨 [Firangana](./projects/2016/firangana.md)
+- 🔐💾🛡️ [Keeep](./projects/2016/keeep.md)
 
 ### 2015
 
-- [ 🤖🩺💊Baymax](./projects/2015/baymax.md)
-- [ 💎✨🇮🇳Crink Jewel](./projects/2015/crink-jewel.md)
-- [ 💊🔥🛒SixteenInches](./projects/2015/sixteeninches.md)
-- [ 🎵📱🎶Saga Music](./projects/2015/saga-music.md)
+- 🤖🩺💊 [Baymax](./projects/2015/baymax.md)
+- 💎✨🇮🇳 [Crink Jewel](./projects/2015/crink-jewel.md)
+- 💊🔥🛒 [SixteenInches](./projects/2015/sixteeninches.md)
+- 🎵📱🎶 [Saga Music](./projects/2015/saga-music.md)
 
 ### 2014
 
-- [ ⚖️💻🎨Justice Adda](./projects/2014/justice-adda.md)
-- [ ♻️🚰🔺Project Blue](./projects/2014/project-blue.md)
-- [ 👗📱⚡Cyankart](./projects/2014/cyankart.md)
-- [ 🤝🎓🚀Unifiers](./projects/2014/unifiers.md)
-- [ 🇮🇳❤️🏷️Made with Love in India](./projects/2014/made-with-love-in-india.md)
-- [ 🎓🤝🚀ClassRebels](./projects/2014/classrebels.md)
+- ⚖️💻🎨 [Justice Adda](./projects/2014/justice-adda.md)
+- ♻️🚰🔺 [Project Blue](./projects/2014/project-blue.md)
+- 👗📱⚡ [Cyankart](./projects/2014/cyankart.md)
+- 🤝🎓🚀 [Unifiers](./projects/2014/unifiers.md)
+- 🇮🇳❤️🏷️ [Made with Love in India](./projects/2014/made-with-love-in-india.md)
+- 🎓🤝🚀 [ClassRebels](./projects/2014/classrebels.md)
 
 ### 2013
 
-- [ 🌐🎨🖥️Internet.org](./projects/2013/internet.org.md)
+- 🌐🎨🖥️ [Internet.org](./projects/2013/internet.org.md)
 
 ### 2012
 
-- [ 🚀💻🎨PickQuick](./projects/2012/pickquick.md)
-- [ 🎓🎨🎥Global School of Media Crafting](./projects/2012/gsmc.md)
+- 🚀💻🎨 [PickQuick](./projects/2012/pickquick.md)
+- 🎓🎨🎥 [Global School of Media Crafting](./projects/2012/gsmc.md)
 <!--/autogenerated-->
 
 ## ℹ️ About this repository

@@ -24,6 +24,19 @@ jobs:
           token: "${{ secrets.GITHUB_TOKEN }}"
           commitMessage: ":pencil: Update projects summary [skip ci]"
           directory: "projects"
+          caption: |
+            const result = [];
+            if (attributes.intro)
+              result.push(`${attributes.intro}`);
+            if (attributes.work)
+              result.push(`🏷️ ${attributes.work.join(", ")}`);
+            if (attributes.tools)
+              result.push(`🔧 ${attributes.tools.join(", ")}`);
+            if (attributes.stack)
+              result.push(`💻 ${attributes.stack.join(", ")}`);
+            if (attributes.collaborators)
+              result.push(`👥 ${attributes.collaborators.join(", ")}`);
+            return firstLine;
       - name: Dispatch AnandChowdhary/everything update
         uses: benc-uk/workflow-dispatch@v1.2.2
         with:

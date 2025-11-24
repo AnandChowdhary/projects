@@ -1,6 +1,6 @@
 # 📱 Projects
 
-This repository contains my projects.
+This repository contains my projects, available on [**anandchowdhary.com/projects**](https://anandchowdhary.com/projects).
 
 [![Readme CI](https://github.com/AnandChowdhary/projects/actions/workflows/api.yml/badge.svg)](https://github.com/AnandChowdhary/projects/actions/workflows/api.yml)
 

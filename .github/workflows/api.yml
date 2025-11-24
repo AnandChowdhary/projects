@@ -36,7 +36,7 @@ jobs:
               result.push(`💻 ${attributes.stack.join(", ")}`);
             if (attributes.collaborators)
               result.push(`👥 ${attributes.collaborators.join(", ")}`);
-            return firstLine;
+            return result;
       - name: Dispatch AnandChowdhary/everything update
         uses: benc-uk/workflow-dispatch@v1.2.2
         with:

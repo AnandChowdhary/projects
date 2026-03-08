@@ -2,7 +2,7 @@
 title: Actions on FirstQuadrant
 tags: projects
 intro: Human-in-the-loop AI inbox where sales teams review, approve, and refine AI-generated outreach actions
-date: 2023-08-01
+date: 2024-05-20
 work: ["Web", "FirstQuadrant"]
 bg: "#1a1a2e"
 style: cover
@@ -34,7 +34,7 @@ We designed a deliberate trust gradient: start in manual mode (approve everythin
 
 ![Autopilot settings with sequence sampling at 50%](/assets/firstquadrant-actions/autopilot-sampling.jpg)
 
-We also built full conversation management with HTML email rendering, calendar integration that auto-detects scheduled meetings, and notifications via in-app bell and Slack Connect channels.
+We also built full conversation management with HTML email rendering, calendar integration that auto-detects scheduled meetings (feeding conversion signals back to [prospecting](/projects/2023/firstquadrant-prospecting) and [campaigns](/projects/2023/firstquadrant-campaigns)), and notifications via in-app bell and Slack Connect channels.
 
 ![Full conversation thread with approval flow](/assets/firstquadrant-actions/conversation-thread.jpg)
 ![In-app notifications for qualification and campaign events](/assets/firstquadrant-actions/notifications.jpg)

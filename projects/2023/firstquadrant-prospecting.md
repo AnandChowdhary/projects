@@ -2,7 +2,7 @@
 title: Prospecting & Qualification on FirstQuadrant
 tags: projects
 intro: AI-powered lead finding, enrichment, and qualification engine for hyper-targeted B2B outbound sales
-date: 2023-08-01
+date: 2023-06-01
 work: ["Web", "FirstQuadrant"]
 bg: "#1a1a2e"
 style: cover
@@ -11,7 +11,7 @@ img_type: jpg
 stack: ["TypeScript", "React", "Next.js", "Prisma", "Apollo.io"]
 ---
 
-Before you can run [campaigns](/projects/2023/firstquadrant-campaigns) or handle [actions](/projects/2023/firstquadrant-actions), you need an audience — and not just any list, but one that's been enriched, filtered, and qualified so every contact is worth emailing.
+Before you can run [campaigns](/projects/2023/firstquadrant-campaigns) or handle [actions](/projects/2024/firstquadrant-actions), you need an audience — and not just any list, but one that's been enriched, filtered, and qualified so every contact is worth emailing.
 
 The primary way to build an audience is through our Apollo.io integration. Apollo has over 100 million contacts, and we built a prospecting tool that lets you search through them without leaving FirstQuadrant. Filters include company headcount, HQ location, industry, revenue, funding rounds, technologies, and open positions on the company side, plus job title, management level, previous employers, and department on the contact side.
 

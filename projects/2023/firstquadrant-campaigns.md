@@ -2,7 +2,7 @@
 title: Campaigns on FirstQuadrant
 tags: projects
 intro: AI-generated personalized email sequences with deliverability infrastructure for fully autonomous B2B outbound
-date: 2023-08-01
+date: 2023-09-01
 work: ["Web", "FirstQuadrant"]
 bg: "#1a1a2e"
 style: cover
@@ -11,7 +11,7 @@ img_type: jpg
 stack: ["TypeScript", "React", "Next.js", "OpenAI", "SendGrid"]
 ---
 
-Campaigns is the outbound engine — taking a [qualified audience](/projects/2023/firstquadrant-prospecting), writing personalized emails in the user's voice, and sending them on autopilot. It bridges prospecting and [actions](/projects/2023/firstquadrant-actions): turning cold prospects into warm conversations.
+Campaigns is the outbound engine — taking a [qualified audience](/projects/2023/firstquadrant-prospecting), writing personalized emails in the user's voice, and sending them on autopilot. It bridges prospecting and [actions](/projects/2024/firstquadrant-actions): turning cold prospects into warm conversations.
 
 Setting up a campaign is a multi-step flow. You pick an audience, configure qualification criteria, define enrichments (custom fields like "company mission" or "latest product launch" that AI researches per prospect), add context about your offering, write the email sequence, and select mailboxes.
 

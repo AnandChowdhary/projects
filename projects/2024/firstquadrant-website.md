@@ -2,7 +2,7 @@
 title: FirstQuadrant.ai
 tags: projects
 intro: Marketing website, documentation, and changelog for FirstQuadrant's AI sales platform
-date: 2023-08-01
+date: 2024-02-21
 work: ["Web", "FirstQuadrant"]
 bg: "#1a1a2e"
 style: cover
@@ -11,7 +11,7 @@ img_type: jpg
 stack: ["TypeScript", "React", "Next.js", "Tailwind CSS", "MDX"]
 ---
 
-The marketing website for FirstQuadrant had to explain a complex AI sales platform in five seconds. The positioning evolved over time — from "All-in-one AI sales platform" at YC launch, to "AI sales execution platform," to the final "Maximize B2B sales with human-centered AI." That last framing reflected our product philosophy: AI that assists humans rather than replaces them, built around the [Actions](/projects/2023/firstquadrant-actions) cockpit and the Brain.
+The marketing website for FirstQuadrant had to explain a complex AI sales platform in five seconds. The positioning evolved over time — from "All-in-one AI sales platform" at YC launch, to "AI sales execution platform," to the final "Maximize B2B sales with human-centered AI." That last framing reflected our product philosophy: AI that assists humans rather than replaces them, built around the [Actions](/projects/2024/firstquadrant-actions) cockpit and the Brain.
 
 ![Homepage screenshot showing the campaign responses view](/assets/firstquadrant-website/homepage-screenshot.jpg)
 

@@ -1336,5 +1336,129 @@
     },
     "emoji": "🛋️📊🖥️",
     "caption": "Internal ERP and inventory management system for Pabio\n🏷️ Web, Pabio\n💻 TypeScript, React, Next.js, Tailwind CSS"
+  },
+  {
+    "slug": "firstquadrant-actions.md",
+    "path": "projects/2023/firstquadrant-actions.md",
+    "source": "https://github.com/AnandChowdhary/projects/blob/main/projects/2023/firstquadrant-actions.md",
+    "title": "Actions on FirstQuadrant",
+    "date": "2023-08-01T00:00:00.000Z",
+    "excerpt": "Actions was our answer to a core belief: fully autonomous AI sales is a bad idea — not because the AI can't do it, but because people shouldn't have to blindly trust it. This was the cockpit where AI did the heavy lifting and humans stayed in control. The full Actions inbox — conversation thread, contact panel, and command palette\n\nAt its core, Actions is a smart inbox organized into views: Todo (items needing review), Replies (sent responses), Follow-ups (scheduled emails), Snooz",
+    "attributes": {
+      "title": "Actions on FirstQuadrant",
+      "tags": "projects",
+      "intro": "Human-in-the-loop AI inbox where sales teams review, approve, and refine AI-generated outreach actions",
+      "date": "2023-08-01T00:00:00.000Z",
+      "work": [
+        "Web",
+        "FirstQuadrant"
+      ],
+      "bg": "#1a1a2e",
+      "style": "cover",
+      "img_src": "/assets/firstquadrant-actions/inbox-dark",
+      "img_type": "jpg",
+      "stack": [
+        "TypeScript",
+        "React",
+        "Next.js",
+        "OpenAI GPT-4o",
+        "BullMQ"
+      ]
+    },
+    "emoji": "🤖🧠📬",
+    "caption": "Human-in-the-loop AI inbox where sales teams review, approve, and refine AI-generated outreach actions\n🏷️ Web, FirstQuadrant\n💻 TypeScript, React, Next.js, OpenAI GPT-4o, BullMQ"
+  },
+  {
+    "slug": "firstquadrant-campaigns.md",
+    "path": "projects/2023/firstquadrant-campaigns.md",
+    "source": "https://github.com/AnandChowdhary/projects/blob/main/projects/2023/firstquadrant-campaigns.md",
+    "title": "Campaigns on FirstQuadrant",
+    "date": "2023-08-01T00:00:00.000Z",
+    "excerpt": "Campaigns is the outbound engine — taking a qualified audience, writing personalized emails in the user's voice, and sending them on autopilot. It bridges prospecting and actions: turning cold prospects into warm conversations. Setting up a campaign is a multi-step flow.",
+    "attributes": {
+      "title": "Campaigns on FirstQuadrant",
+      "tags": "projects",
+      "intro": "AI-generated personalized email sequences with deliverability infrastructure for fully autonomous B2B outbound",
+      "date": "2023-08-01T00:00:00.000Z",
+      "work": [
+        "Web",
+        "FirstQuadrant"
+      ],
+      "bg": "#1a1a2e",
+      "style": "cover",
+      "img_src": "/assets/firstquadrant-campaigns/sequence-timeline",
+      "img_type": "jpg",
+      "stack": [
+        "TypeScript",
+        "React",
+        "Next.js",
+        "OpenAI",
+        "SendGrid"
+      ]
+    },
+    "emoji": "📧🤖🌍",
+    "caption": "AI-generated personalized email sequences with deliverability infrastructure for fully autonomous B2B outbound\n🏷️ Web, FirstQuadrant\n💻 TypeScript, React, Next.js, OpenAI, SendGrid"
+  },
+  {
+    "slug": "firstquadrant-prospecting.md",
+    "path": "projects/2023/firstquadrant-prospecting.md",
+    "source": "https://github.com/AnandChowdhary/projects/blob/main/projects/2023/firstquadrant-prospecting.md",
+    "title": "Prospecting & Qualification on FirstQuadrant",
+    "date": "2023-08-01T00:00:00.000Z",
+    "excerpt": "Before you can run campaigns or handle actions, you need an audience — and not just any list, but one that's been enriched, filtered, and qualified so every contact is worth emailing. The primary way to build an audience is through our Apollo.io integration. Apollo has over 100 million contacts, and we built a prospecting tool that lets you search through them without leaving FirstQuadrant.",
+    "attributes": {
+      "title": "Prospecting & Qualification on FirstQuadrant",
+      "tags": "projects",
+      "intro": "AI-powered lead finding, enrichment, and qualification engine for hyper-targeted B2B outbound sales",
+      "date": "2023-08-01T00:00:00.000Z",
+      "work": [
+        "Web",
+        "FirstQuadrant"
+      ],
+      "bg": "#1a1a2e",
+      "style": "cover",
+      "img_src": "/assets/firstquadrant-prospecting/qualification-criteria",
+      "img_type": "jpg",
+      "stack": [
+        "TypeScript",
+        "React",
+        "Next.js",
+        "Prisma",
+        "Apollo.io"
+      ]
+    },
+    "emoji": "🤖🔎📈",
+    "caption": "AI-powered lead finding, enrichment, and qualification engine for hyper-targeted B2B outbound sales\n🏷️ Web, FirstQuadrant\n💻 TypeScript, React, Next.js, Prisma, Apollo.io"
+  },
+  {
+    "slug": "firstquadrant-website.md",
+    "path": "projects/2023/firstquadrant-website.md",
+    "source": "https://github.com/AnandChowdhary/projects/blob/main/projects/2023/firstquadrant-website.md",
+    "title": "FirstQuadrant.ai",
+    "date": "2023-08-01T00:00:00.000Z",
+    "excerpt": "The marketing website for FirstQuadrant had to explain a complex AI sales platform in five seconds. The positioning evolved over time — from \"All-in-one AI sales platform\" at YC launch, to \"AI sales execution platform,\" to the final \"Maximize B2B sales with human-centered AI.\" That last framing reflected our product philosophy: AI that assists humans rather than replaces them, built around the Actions cockpit and the Brain.",
+    "attributes": {
+      "title": "FirstQuadrant.ai",
+      "tags": "projects",
+      "intro": "Marketing website, documentation, and changelog for FirstQuadrant's AI sales platform",
+      "date": "2023-08-01T00:00:00.000Z",
+      "work": [
+        "Web",
+        "FirstQuadrant"
+      ],
+      "bg": "#1a1a2e",
+      "style": "cover",
+      "img_src": "/assets/firstquadrant-website/homepage-screenshot",
+      "img_type": "jpg",
+      "stack": [
+        "TypeScript",
+        "React",
+        "Next.js",
+        "Tailwind CSS",
+        "MDX"
+      ]
+    },
+    "emoji": "🤖🌐🚀",
+    "caption": "Marketing website, documentation, and changelog for FirstQuadrant's AI sales platform\n🏷️ Web, FirstQuadrant\n💻 TypeScript, React, Next.js, Tailwind CSS, MDX"
   }
 ]

@@ -209,7 +209,7 @@ This repository contains my projects, available on [**anandchowdhary.com/project
 ### 2015
 
 - 🤖🩺💊 [**Baymax**](./projects/2015/baymax.md)  
-  End-to-end healthcare companies that diagnoses illnesses and helps your recover, along with scheduling and appointments.  
+  End-to-end healthcare companion that diagnoses illnesses and helps you recover, along with scheduling and appointments.  
   🏷️ App, Branding  
   🔧 Photoshop  
   👥 nishant-gadihoke
@@ -220,7 +220,7 @@ This repository contains my projects, available on [**anandchowdhary.com/project
   🔧 Photoshop, Illustrator
 
 - 💊🔥🛒 [**SixteenInches**](./projects/2015/sixteeninches.md)  
-  Branding and Shopify theme customization for one of the fastest-growing online supplements stores in India.  
+  Branding and Shopify theme customization for one of the fastest-growing online supplement storess in India.  
   🏷️ App, Branding, Web  
   🔧 Shopify, Photoshop, Illustrator
 

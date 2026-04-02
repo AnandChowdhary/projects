@@ -329,12 +329,12 @@
     "source": "https://github.com/AnandChowdhary/projects/blob/main/projects/2015/sixteeninches.md",
     "title": "SixteenInches",
     "date": "2015-09-12T00:00:00.000Z",
-    "excerpt": ".com is one of the fastest-growing online supplements store. It was built on a foundation of authenticity and quality-control, both of which currently lack the healthcare industry. I was hired to design the SixteenInches' brand identity, including logo and social media design, and a responsive ecommerce website on the WordPress platform using Woocommerce, to convey their mission. I chose red as the primary brand color because it represents power and passion.",
+    "excerpt": ".com is one of the fastest-growing online supplement stores. It was built on a foundation of authenticity and quality-control, both of which the healthcare industry currently lacks. I was hired to design the SixteenInches' brand identity, including logo and social media design, and a responsive ecommerce website on the WordPress platform using Woocommerce, to convey their mission. I chose red as the primary brand color because it represents power and passion.",
     "attributes": {
       "title": "SixteenInches",
       "tags": "projects",
       "subcategory": "Ecommerce",
-      "intro": "Branding and Shopify theme customization for one of the fastest-growing online supplements stores in India.",
+      "intro": "Branding and Shopify theme customization for one of the fastest-growing online supplement storess in India.",
       "date": "2015-09-12T00:00:00.000Z",
       "icon": "/assets/sixteeninches/icon.png",
       "bg": "#f30f40",
@@ -355,7 +355,7 @@
       ]
     },
     "emoji": "💊🔥🛒",
-    "caption": "Branding and Shopify theme customization for one of the fastest-growing online supplements stores in India.\n🏷️ App, Branding, Web\n🔧 Shopify, Photoshop, Illustrator"
+    "caption": "Branding and Shopify theme customization for one of the fastest-growing online supplement storess in India.\n🏷️ App, Branding, Web\n🔧 Shopify, Photoshop, Illustrator"
   },
   {
     "slug": "crink-jewel.md",
@@ -400,7 +400,7 @@
       "title": "Baymax",
       "tags": "projects",
       "subcategory": "App",
-      "intro": "End-to-end healthcare companies that diagnoses illnesses and helps your recover, along with scheduling and appointments.",
+      "intro": "End-to-end healthcare companion that diagnoses illnesses and helps you recover, along with scheduling and appointments.",
       "date": "2015-12-11T00:00:00.000Z",
       "icon": "/assets/baymax/icon.png",
       "work": [
@@ -420,7 +420,7 @@
       ]
     },
     "emoji": "🤖🩺💊",
-    "caption": "End-to-end healthcare companies that diagnoses illnesses and helps your recover, along with scheduling and appointments.\n🏷️ App, Branding\n🔧 Photoshop\n👥 nishant-gadihoke"
+    "caption": "End-to-end healthcare companion that diagnoses illnesses and helps you recover, along with scheduling and appointments.\n🏷️ App, Branding\n🔧 Photoshop\n👥 nishant-gadihoke"
   },
   {
     "slug": "keeep.md",
@@ -492,7 +492,7 @@
     "source": "https://github.com/AnandChowdhary/projects/blob/main/projects/2016/delhi-government.md",
     "title": "Delhi Government",
     "date": "2016-04-26T00:00:00.000Z",
-    "excerpt": "In April and May, 2016, I worked with a small team at the Government of Delhi's Directorate of Education to try and streamline the process of communication between state schools and the Directorate. Today, if a school principal has a problem, she has to report a grievance, wait for a response, get redirected to the correct department, find someone, address the problem, and it keeps going on and on. We redesigned this process from group up for efficient, two-way communication.",
+    "excerpt": "In April and May, 2016, I worked with a small team at the Government of Delhi's Directorate of Education to try and streamline the process of communication between state schools and the Directorate. Today, if a school principal has a problem, she has to report a grievance, wait for a response, get redirected to the correct department, find someone, address the problem, and it keeps going on and on. We redesigned this process from the ground up for efficient, two-way communication.",
     "attributes": {
       "title": "Delhi Government",
       "tags": "projects",
@@ -524,7 +524,7 @@
     "source": "https://github.com/AnandChowdhary/projects/blob/main/projects/2016/valmiki.md",
     "title": "Valmiki",
     "date": "2016-06-11T00:00:00.000Z",
-    "excerpt": "In June 2016, I had the idea of developing a browser extension for users with dyselxia which could redesign webpages to make them easier to read. Nishant and I built the extension during a weekend hackathon, AngelHack Delhi 2016, where we won the Code4Impact Challenge. The duo decided to learn more about web accessibility features for people with dyslexia and learning disabilities, discussed suitable colours and fonts, and finally came up with Oswald in June this year.",
+    "excerpt": "In June 2016, I had the idea of developing a browser extension for users with dyslexia which could redesign webpages to make them easier to read. Nishant and I built the extension during a weekend hackathon, AngelHack Delhi 2016, where we won the Code4Impact Challenge. The duo decided to learn more about web accessibility features for people with dyslexia and learning disabilities, discussed suitable colours and fonts, and finally came up with Oswald in June this year.",
     "attributes": {
       "title": "Valmiki",
       "tags": "projects",
@@ -759,7 +759,7 @@
     "source": "https://github.com/AnandChowdhary/projects/blob/main/projects/2017/refuserve.md",
     "title": "RefuServe",
     "date": "2017-11-19T00:00:00.000Z",
-    "excerpt": "is a chatbot app that helps you develop your skills by recommending videos and translating them in your native language, along with automatically generating resumes for you in multiple languages. No matter where you're from, RefuServe will help you find a job in Europe. View GitHub repo &rarr;",
+    "excerpt": "is a chatbot app that helps you develop your skills by recommending videos and translating them into your native language, along with automatically generating resumes for you in multiple languages. No matter where you're from, RefuServe will help you find a job in Europe. View GitHub repo &rarr;",
     "attributes": {
       "title": "RefuServe",
       "tags": "projects",
@@ -796,7 +796,7 @@
     "source": "https://github.com/AnandChowdhary/projects/blob/main/projects/2018/blueboard.md",
     "title": "Blueboard",
     "date": "2018-01-23T00:00:00.000Z",
-    "excerpt": "BlueBoard is a Bluetooth-powered smart billboard that actually cares about you. Privacy-first and context-aware, it connects with your smartphone via Bluetooth and shows you relevant advertisements and information. Users can open the BlueBoard app and set their preferences by assigning points from 0 to 10 to everything you they like — from technology and fashion to food and the weather. BlueBoard listens to the app and securely transfers their preference data.",
+    "excerpt": "BlueBoard is a Bluetooth-powered smart billboard that actually cares about you. Privacy-first and context-aware, it connects with your smartphone via Bluetooth and shows you relevant advertisements and information. Users can open the BlueBoard app and set their preferences by assigning points from 0 to 10 to everything they like — from technology and fashion to food and the weather. BlueBoard listens to the app and securely transfers their preference data.",
     "attributes": {
       "title": "Blueboard",
       "tags": "projects",
@@ -907,7 +907,7 @@
     "source": "https://github.com/AnandChowdhary/projects/blob/main/projects/2018/ibm-iot-escape-room.md",
     "title": "IBM IoT Escape Room",
     "date": "2018-04-12T00:00:00.000Z",
-    "excerpt": "From February to April 2018, my project group and I worked with IBM on building an escape room using—and to teach players about—the IoT. Using Wemoses and Ardiuos as the basic building blocks, combined with Firebase's real-time database and a custom-built Vue.js app, we built a proof-of-concept with five connected puzzles.",
+    "excerpt": "From February to April 2018, my project group and I worked with IBM on building an escape room using—and to teach players about—the IoT. Using Wemoses and Arduinos as the basic building blocks, combined with Firebase's real-time database and a custom-built Vue.js app, we built a proof-of-concept with five connected puzzles.",
     "attributes": {
       "title": "IBM IoT Escape Room",
       "tags": "projects",
@@ -1283,7 +1283,7 @@
     "source": "https://github.com/AnandChowdhary/projects/blob/main/projects/2021/pabio-proposal.md",
     "title": "Proposals on Pabio.com",
     "date": "2021-12-22T00:00:00.000Z",
-    "excerpt": "After a customer completes the onboarding flow and has as interior design consulting call, we generate a personalized proposal for them. The proposal includes a list of furniture items, a a 3D photorealistic rendering of their furnished apartment, and a price breakdown. Dashboard\n\nThe customer logs in to their account on Pabio.com to view their proposal. From their dashboard, they can also manage deliveries, view and pay invoices, claim insurance,",
+    "excerpt": "After a customer completes the onboarding flow and has as interior design consulting call, we generate a personalized proposal for them. The proposal includes a list of furniture items, a 3D photorealistic rendering of their furnished apartment, and a price breakdown. Dashboard\n\nThe customer logs in to their account on Pabio.com to view their proposal. From their dashboard, they can also manage deliveries, view and pay invoices, claim insurance,",
     "attributes": {
       "title": "Proposals on Pabio.com",
       "tags": "projects",

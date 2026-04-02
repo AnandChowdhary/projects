@@ -16,7 +16,7 @@ stack: ["PHP"]
 
 You see this meticulously made handicraft item which would be the perfect addition to brighten up any living room. You pick it up, admiring the attention to detail when suddenly you spot the Made in India label at the bottom, instantly making the product you were admiring seconds ago feel as cheap as dirt.
 
-Why is it that a Made in Italy label makes people feel as if the product had been made in heaven itself? Why does it give the product a sense a class regardless of its quality?
+Why is it that a Made in Italy label makes people feel as if the product had been made in heaven itself? Why does it give the product a sense of class regardless of its quality?
 
 Now, imagine yourself with the beautifully made handicraft once again. You carefully inspect it in your hands when suddenly, you spot a label on the bottom, stating, Made with love, in India. A warm feeling comes over you and a smile plays on your lips. You reach for your wallet and purchase the product.
 

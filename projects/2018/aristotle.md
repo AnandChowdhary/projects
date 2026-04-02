@@ -39,7 +39,7 @@ For students, it automatically finds the best content from a variety of sources 
 
 The product was a progressive web app built using Vue/Nuxt.js powered by Django and Firebase.
 
-The app also included Oswald Labs' accessibility features to make it more usable for student with dyslexia, visual impairment, and more disabilities, along with a chatbot to answer students' frequently asked questions which could be trained by all teachers.
+The app also included Oswald Labs' accessibility features to make it more usable for students with dyslexia, visual impairment, and more disabilities, along with a chatbot to answer students' frequently asked questions which could be trained by all teachers.
 
 <div class="two-images">
   <img alt="" src="/assets/aristotle/5.png">

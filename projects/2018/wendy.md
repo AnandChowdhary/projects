@@ -14,7 +14,7 @@ tools: ["Vue.js", "Firebase"]
 collaborators: ["mohit-ahuja"]
 ---
 
-On a weekend in March 2018, I build Wendy, a smartphone-based home security system with real-time face detection and a chatbot interface. Instead of a €200 Nest device, Wendy uses a €30 smartphone mounted as a doorbell.
+On a weekend in March 2018, I built Wendy, a smartphone-based home security system with real-time face detection and a chatbot interface. Instead of a €200 Nest device, Wendy uses a €30 smartphone mounted as a doorbell.
 
 As soon as someone approaches your door, Wendy checks their face against your trusted contacts and lets you know in case she doesn't recognize them. She also checks the entire Netherlands' Police database of missing or wanted persons and alerts the authorities in case a match is found.
 

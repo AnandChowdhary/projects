@@ -24,6 +24,6 @@ I lead the development on SkillsTrainer, India's first online train-the-trainer 
 
 ## Nayee Disha
 
-I also designed components for Nayee Disha, a Unifiers project with the United National Development Program (UNDP) along with companies like Pepsico, Airtel, Nestlé, Honda, R&B, and more. The program aims at creating awareness amongst young college girls about the FMCG, Telecom and manufacturing, and retail industries, as well as connect them to the emerging job opportunities in multiple areas such as customer service, marketing, logistics, etc.
+I also designed components for Nayee Disha, a Unifiers project with the United Nations Development Programme (UNDP) along with companies like Pepsico, Airtel, Nestlé, Honda, R&B, and more. The program aims at creating awareness amongst young college girls about the FMCG, Telecom and manufacturing, and retail industries, as well as connect them to the emerging job opportunities in multiple areas such as customer service, marketing, logistics, etc.
 
 Phase 1 of the Nayee Disha Project was launched in August 2016 and completed in October 2016 in which 10,880 women students have undergone the industry awareness workshop and assessment. Of these, 75% and above scorers have been certified by the industry consortium. The partner companies are identifying multiple job and internship openings across cities where the Nayee Disha project is being implemented and shall connect the certified girls to these job openings based on their area of interest and competence.

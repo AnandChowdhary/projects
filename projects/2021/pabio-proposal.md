@@ -11,7 +11,7 @@ img_type: jpg
 stack: ["TypeScript", "React", "Next.js", "Tailwind CSS"]
 ---
 
-After a customer completes the [onboarding flow](/projects/2021/pabio-onboarding) and has as interior design consulting call, we generate a personalized proposal for them. The proposal includes a list of furniture items, a a 3D photorealistic rendering of their furnished apartment, and a price breakdown.
+After a customer completes the [onboarding flow](/projects/2021/pabio-onboarding) and has as interior design consulting call, we generate a personalized proposal for them. The proposal includes a list of furniture items, a 3D photorealistic rendering of their furnished apartment, and a price breakdown.
 
 ![Dashboard](/assets/pabio-proposal/dashboard.jpg)
 
@@ -39,7 +39,7 @@ We also show a price breakdown, so customers can see how much they're saving by 
 
 ![Compare and save](/assets/pabio-proposal/compare-and-save.jpg)
 
-After clicking on "Order now", customers are taken to a page where they can a summary of the products in their proposal and select any optional addons.
+After clicking on "Order now", customers are taken to a page where they can see a summary of the products in their proposal and select any optional addons.
 
 ![Contract overview](/assets/pabio-proposal/contract-overview.jpg)
 ![Contract addons](/assets/pabio-proposal/contract-addons.jpg)

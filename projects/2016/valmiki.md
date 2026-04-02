@@ -13,7 +13,7 @@ stack: ["JavaScript"]
 collaborators: ["nishant-gadihoke"]
 ---
 
-In June 2016, I had the idea of developing a browser extension for users with dyselxia which could redesign webpages to make them easier to read. Nishant and I built the extension during a weekend hackathon, AngelHack Delhi 2016, where we won the Code4Impact Challenge.
+In June 2016, I had the idea of developing a browser extension for users with dyslexia which could redesign webpages to make them easier to read. Nishant and I built the extension during a weekend hackathon, AngelHack Delhi 2016, where we won the Code4Impact Challenge.
 
 <div class="two-images">
   <img src="/assets/oswald-labs/valmiki/homepage.png" alt="Screenshot of podcasts">

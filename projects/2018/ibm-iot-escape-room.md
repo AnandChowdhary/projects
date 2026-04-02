@@ -16,7 +16,7 @@ icon: /assets/ibm-iot-escape-room/icon.png
 icon_bg: true
 ---
 
-From February to April 2018, my project group and I worked with IBM on building an escape room using—and to teach players about—the IoT. Using Wemoses and Ardiuos as the basic building blocks, combined with Firebase's real-time database and a custom-built Vue.js app, we built a proof-of-concept with five connected puzzles.
+From February to April 2018, my project group and I worked with IBM on building an escape room using—and to teach players about—the IoT. Using Wemoses and Arduinos as the basic building blocks, combined with Firebase's real-time database and a custom-built Vue.js app, we built a proof-of-concept with five connected puzzles.
 
 This was my project for the module "Living and Working Tomorrow", a quarter of Creative Technology BSc's first year focused on working with external clients on solving today's problems using tomorrow's technology.
 
@@ -33,4 +33,4 @@ This was my project for the module "Living and Working Tomorrow", a quarter of C
   <div><img alt="" src="/assets/ibm-iot-escape-room/6.jpg"></div>
 </div>
 
-<footer>This project was done in collaboration with <a href="https://portfolio.cr.utwente.nl/student/babichepompe/">Babiche Pompe 🇳🇱</a>, <a href="https://portfolio.cr.utwente.nl/student/beurden/">Jenneke van Beurden 🇳🇱</a>, Kristian Tijben 🇳🇱, <a href="https://portfolio.cr.utwente.nl/student/maskanceval/">Laura Maškanceva 🇱🇻</a>, and <a href="https://portfolio.cr.utwente.nl/student/pawirotaroenorzg/">Rezfan Pawirotaroeno 🇸🇷</a>. It wouldn've have been possible without Manfred Overmeen from IBM and our module coordinator <a href="http://edwindertien.nl/" target="_blank" rel="noopener noreferrer">Edwin Dertien</a>.</footer>
+<footer>This project was done in collaboration with <a href="https://portfolio.cr.utwente.nl/student/babichepompe/">Babiche Pompe 🇳🇱</a>, <a href="https://portfolio.cr.utwente.nl/student/beurden/">Jenneke van Beurden 🇳🇱</a>, Kristian Tijben 🇳🇱, <a href="https://portfolio.cr.utwente.nl/student/maskanceval/">Laura Maškanceva 🇱🇻</a>, and <a href="https://portfolio.cr.utwente.nl/student/pawirotaroenorzg/">Rezfan Pawirotaroeno 🇸🇷</a>. It wouldn't have been possible without Manfred Overmeen from IBM and our module coordinator <a href="http://edwindertien.nl/" target="_blank" rel="noopener noreferrer">Edwin Dertien</a>.</footer>

@@ -2,7 +2,7 @@
 title: Baymax
 tags: projects
 subcategory: App
-intro: End-to-end healthcare companies that diagnoses illnesses and helps your recover, along with scheduling and appointments.
+intro: End-to-end healthcare companion that diagnoses illnesses and helps you recover, along with scheduling and appointments.
 date: 2015-12-11
 icon: /assets/baymax/icon.png
 work: ["App", "Branding"]

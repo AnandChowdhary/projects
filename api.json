@@ -1343,11 +1343,11 @@
     "source": "https://github.com/AnandChowdhary/projects/blob/main/projects/2023/firstquadrant-prospecting.md",
     "title": "Prospecting & Qualification on FirstQuadrant",
     "date": "2023-06-01T00:00:00.000Z",
-    "excerpt": "Before you can run campaigns or handle actions, you need an audience — and not just any list, but one that's been enriched, filtered, and qualified so every contact is worth emailing. The primary way to build an audience is through our Apollo.io integration. Apollo has over 100 million contacts, and we built a prospecting tool that lets you search through them without leaving FirstQuadrant.",
+    "excerpt": "Before you can run campaigns or handle actions, you need an audience. Not just a CSV of names, but contacts and companies that have been enriched, filtered, qualified, and connected to the rest of the CRM so the AI can reason about them. The first version of prospecting centered on Apollo.io, then generalized into a broader imports system: CSV files, API/webhook intake, app integrations, saved views, visitor identification, and product signals could all become audiences.",
     "attributes": {
       "title": "Prospecting & Qualification on FirstQuadrant",
       "tags": "projects",
-      "intro": "AI-powered lead finding, enrichment, and qualification engine for hyper-targeted B2B outbound sales",
+      "intro": "AI-powered contact ingestion, enrichment, and qualification for targeted B2B outbound workflows",
       "date": "2023-06-01T00:00:00.000Z",
       "work": [
         "Web",
@@ -1355,8 +1355,8 @@
       ],
       "bg": "#1a1a2e",
       "style": "cover",
-      "img_src": "/assets/firstquadrant-prospecting/qualification-criteria",
-      "img_type": "jpg",
+      "img_src": "/assets/firstquadrant-prospecting/contacts",
+      "img_type": "png",
       "stack": [
         "TypeScript",
         "React",
@@ -1366,7 +1366,7 @@
       ]
     },
     "emoji": "🤖🔎📈",
-    "caption": "AI-powered lead finding, enrichment, and qualification engine for hyper-targeted B2B outbound sales\n🏷️ Web, FirstQuadrant\n💻 TypeScript, React, Next.js, Prisma, Apollo.io"
+    "caption": "AI-powered contact ingestion, enrichment, and qualification for targeted B2B outbound workflows\n🏷️ Web, FirstQuadrant\n💻 TypeScript, React, Next.js, Prisma, Apollo.io"
   },
   {
     "slug": "firstquadrant-campaigns.md",
@@ -1374,11 +1374,11 @@
     "source": "https://github.com/AnandChowdhary/projects/blob/main/projects/2023/firstquadrant-campaigns.md",
     "title": "Campaigns on FirstQuadrant",
     "date": "2023-09-01T00:00:00.000Z",
-    "excerpt": "Campaigns is the outbound engine — taking a qualified audience, writing personalized emails in the user's voice, and sending them on autopilot. It bridges prospecting and actions: turning cold prospects into warm conversations. Setting up a campaign is a multi-step flow.",
+    "excerpt": "Campaigns was the outbound engine: take a qualified audience, generate personalized emails in the sender's voice, send them through connected mailboxes, and hand replies into Actions for human-reviewed follow-up. The campaign overview was designed for scanability, with status, progress indicators, and counts for contacts that were completed, running, sequenced, or pending.",
     "attributes": {
       "title": "Campaigns on FirstQuadrant",
       "tags": "projects",
-      "intro": "AI-generated personalized email sequences with deliverability infrastructure for fully autonomous B2B outbound",
+      "intro": "AI-personalized outbound campaigns with sequence editing, audience qualification, deliverability, and pipeline tracking",
       "date": "2023-09-01T00:00:00.000Z",
       "work": [
         "Web",
@@ -1386,8 +1386,8 @@
       ],
       "bg": "#1a1a2e",
       "style": "cover",
-      "img_src": "/assets/firstquadrant-campaigns/sequence-timeline",
-      "img_type": "jpg",
+      "img_src": "/assets/firstquadrant-campaigns/sequence-editor",
+      "img_type": "png",
       "stack": [
         "TypeScript",
         "React",
@@ -1397,7 +1397,7 @@
       ]
     },
     "emoji": "📧🤖🌍",
-    "caption": "AI-generated personalized email sequences with deliverability infrastructure for fully autonomous B2B outbound\n🏷️ Web, FirstQuadrant\n💻 TypeScript, React, Next.js, OpenAI, SendGrid"
+    "caption": "AI-personalized outbound campaigns with sequence editing, audience qualification, deliverability, and pipeline tracking\n🏷️ Web, FirstQuadrant\n💻 TypeScript, React, Next.js, OpenAI, SendGrid"
   },
   {
     "slug": "firstquadrant-website.md",
@@ -1409,7 +1409,7 @@
     "attributes": {
       "title": "FirstQuadrant.ai",
       "tags": "projects",
-      "intro": "Marketing website, documentation, and changelog for FirstQuadrant's AI sales platform",
+      "intro": "Marketing website, documentation, changelog, and product infrastructure for FirstQuadrant's AI sales platform",
       "date": "2024-02-21T00:00:00.000Z",
       "work": [
         "Web",
@@ -1417,8 +1417,8 @@
       ],
       "bg": "#1a1a2e",
       "style": "cover",
-      "img_src": "/assets/firstquadrant-website/homepage-screenshot",
-      "img_type": "jpg",
+      "img_src": "/assets/firstquadrant-website/homepage",
+      "img_type": "png",
       "stack": [
         "TypeScript",
         "React",
@@ -1428,7 +1428,7 @@
       ]
     },
     "emoji": "🤖🌐🚀",
-    "caption": "Marketing website, documentation, and changelog for FirstQuadrant's AI sales platform\n🏷️ Web, FirstQuadrant\n💻 TypeScript, React, Next.js, Tailwind CSS, MDX"
+    "caption": "Marketing website, documentation, changelog, and product infrastructure for FirstQuadrant's AI sales platform\n🏷️ Web, FirstQuadrant\n💻 TypeScript, React, Next.js, Tailwind CSS, MDX"
   },
   {
     "slug": "firstquadrant-actions.md",
@@ -1436,11 +1436,11 @@
     "source": "https://github.com/AnandChowdhary/projects/blob/main/projects/2024/firstquadrant-actions.md",
     "title": "Actions on FirstQuadrant",
     "date": "2024-05-20T00:00:00.000Z",
-    "excerpt": "Actions was our answer to a core belief: fully autonomous AI sales is a bad idea — not because the AI can't do it, but because people shouldn't have to blindly trust it. This was the cockpit where AI did the heavy lifting and humans stayed in control. The full Actions inbox — conversation thread, contact panel, and command palette\n\nAt its core, Actions is a smart inbox organized into views: Todo (items needing review), Replies (sent responses), Follow-ups (scheduled emails), Snooz",
+    "excerpt": "Actions was our answer to a core belief: fully autonomous AI sales is a bad idea, not because the AI cannot do it, but because people should not have to blindly trust it. The product needed a daily operating surface where AI could do the expensive reasoning work and humans could stay in control of judgment, tone, and timing.",
     "attributes": {
       "title": "Actions on FirstQuadrant",
       "tags": "projects",
-      "intro": "Human-in-the-loop AI inbox where sales teams review, approve, and refine AI-generated outreach actions",
+      "intro": "Human-in-the-loop command center where sales teams review, approve, and tune AI-generated next steps",
       "date": "2024-05-20T00:00:00.000Z",
       "work": [
         "Web",
@@ -1448,8 +1448,8 @@
       ],
       "bg": "#1a1a2e",
       "style": "cover",
-      "img_src": "/assets/firstquadrant-actions/inbox-dark",
-      "img_type": "jpg",
+      "img_src": "/assets/firstquadrant-actions/actions-overview",
+      "img_type": "png",
       "stack": [
         "TypeScript",
         "React",
@@ -1459,6 +1459,6 @@
       ]
     },
     "emoji": "🤖🧠📬",
-    "caption": "Human-in-the-loop AI inbox where sales teams review, approve, and refine AI-generated outreach actions\n🏷️ Web, FirstQuadrant\n💻 TypeScript, React, Next.js, OpenAI GPT-4o, BullMQ"
+    "caption": "Human-in-the-loop command center where sales teams review, approve, and tune AI-generated next steps\n🏷️ Web, FirstQuadrant\n💻 TypeScript, React, Next.js, OpenAI GPT-4o, BullMQ"
   }
 ]

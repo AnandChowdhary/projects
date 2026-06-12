@@ -1,35 +1,47 @@
 ---
 title: Campaigns on FirstQuadrant
 tags: projects
-intro: AI-generated personalized email sequences with deliverability infrastructure for fully autonomous B2B outbound
+intro: AI-personalized outbound campaigns with sequence editing, audience qualification, deliverability, and pipeline tracking
 date: 2023-09-01
 work: ["Web", "FirstQuadrant"]
 bg: "#1a1a2e"
 style: cover
-img_src: /assets/firstquadrant-campaigns/sequence-timeline
-img_type: jpg
+img_src: /assets/firstquadrant-campaigns/sequence-editor
+img_type: png
 stack: ["TypeScript", "React", "Next.js", "OpenAI", "SendGrid"]
 ---
 
-Campaigns is the outbound engine — taking a [qualified audience](/projects/2023/firstquadrant-prospecting), writing personalized emails in the user's voice, and sending them on autopilot. It bridges prospecting and [actions](/projects/2024/firstquadrant-actions): turning cold prospects into warm conversations.
+Campaigns was the outbound engine: take a [qualified audience](/projects/2023/firstquadrant-prospecting), generate personalized emails in the sender's voice, send them through connected mailboxes, and hand replies into [Actions](/projects/2024/firstquadrant-actions) for human-reviewed follow-up. It was the bridge between top-of-funnel data and warm sales conversations.
 
-Setting up a campaign is a multi-step flow. You pick an audience, configure qualification criteria, define enrichments (custom fields like "company mission" or "latest product launch" that AI researches per prospect), add context about your offering, write the email sequence, and select mailboxes.
+The campaign overview was designed for scanability. Each campaign had a status, progress indicators, and counts for contacts that were completed, running, sequenced, or still pending. Starting a campaign was guarded by readiness checks: the workspace needed an active subscription, at least one sender, an audience, a variant, and at least one sequence step. Pausing a campaign could be soft, where already-started sequences kept running, or hard, where running sequences and scheduled drafts were stopped.
 
-![Multilingual content settings with enrichments and creativity slider](/assets/firstquadrant-campaigns/multilingual.jpg)
+![Campaign list with active outbound programs and delivery status](/assets/firstquadrant-campaigns/campaigns.png)
 
-The email generation uses a few-shot approach: users write three sample emails to "train" the AI on their voice, and the system generates personalized outreach using full context — sender info, recipient details, company enrichments, and custom data. Follow-ups are contextually aware of previous emails in the sequence, the AI computes optimal follow-up timing, and the last follow-up casually mentions it's the final one.
+Editing a campaign was a checklist rather than a blank canvas. The main setup sections were Senders, Audience, and Sequence, with advanced configuration for Pipelines, Product or service, and Sending schedule. That structure made it clear what had to be configured before the switch could go from draft to running.
 
-![Campaign sequence timeline with scheduled follow-ups](/assets/firstquadrant-campaigns/sequence-timeline.jpg)
+The sequence editor was where the product felt most different from traditional mail merge. The yellow variables were not simple find-and-replace tokens. They were LLM instructions embedded directly in the template, like “insert a personal anecdote about their team, market, or recent launch.” Each variable could have its own length setting and example, so the system knew whether it should generate a two-word phrase, a short sentence, or a fuller contextual passage.
 
-Deliverability engineering was critical. We support Google Workspace, Microsoft 365, Exchange, Zoho, and IMAP mailboxes with bulk CSV import. Smart ramp-up gradually increases sending volume with configurable randomness. Each mailbox gets a reputation score weighted toward recent days.
+![Sequence editor with LLM-generated personalization variables](/assets/firstquadrant-campaigns/sequence-editor.png)
+![Campaign audience and qualification filters](/assets/firstquadrant-campaigns/audience.png)
 
-![Connect mailbox — all supported providers](/assets/firstquadrant-campaigns/mailbox-connect.jpg)
-![Mailbox ramp-up schedule preview](/assets/firstquadrant-campaigns/rampup-schedule.jpg)
-![Mailbox dashboard with warming scores](/assets/firstquadrant-campaigns/mailbox-dashboard.jpg)
+Audience management connected campaigns back to the CRM. Campaigns could pull from saved contact views and imports, then show every resulting sequence with its status. Opening an audience row showed the same rich contact context panel used elsewhere: contact details, company details, enrichment, custom properties, related deals, and activity history.
 
-We guide users to set up separate outbound domains and recommend six mailboxes per sender across two domains, with integration into warming providers like MailReach and Instantly.
+The generation model used the whole campaign envelope: sender identity, recipient and company context, qualification answers, custom properties, product/service details, and previous steps in the sequence. Follow-ups were aware of the earlier message instead of being separate templates stitched together by date.
 
-![Mailbox selection per campaign](/assets/firstquadrant-campaigns/mailbox-selection.jpg)
-![Bulk import mailboxes via CSV](/assets/firstquadrant-campaigns/bulk-import-mailboxes.jpg)
+Deliverability engineering was critical. We supported Google Workspace, Microsoft 365, Exchange, Zoho, and IMAP mailboxes, plus outbound-specific accounts. Campaigns could inherit the workspace sending schedule or override it with their own weekday windows and recipient-time-zone behavior. The same inheritance pattern applied to product details and pipelines: use workspace defaults when possible, override only when a campaign needed a specific offer, schedule, or conversion pipeline.
 
-Campaigns support eight languages (English US/UK, Dutch, French, German, Romanian, Hindi, Swiss German), multiple goal types (link clicks, calendar events, manual), and Autopilot with sampling — test full autonomy on X% of contacts before going all-in. We shipped updates every Monday for over six months.
+![Campaign sending schedule controls](/assets/firstquadrant-campaigns/schedule.png)
+![Product and service context for generated outreach](/assets/firstquadrant-campaigns/product.png)
+![Pipeline targeting for campaign conversion tracking](/assets/firstquadrant-campaigns/pipelines.png)
+
+Pipeline targeting made campaign outcomes measurable. When someone replied positively, FirstQuadrant could create or associate deals in the selected pipeline and then surface conversion in analytics. The result was a loop: prospecting created the audience, campaigns generated the outreach, actions handled the replies, and analytics showed whether the work created pipeline.
+
+We shipped Campaigns as a living system, not a one-off feature. Over time it grew language support, richer variables, mailbox management, HTML email handling, unsubscribe logic, campaign analytics, variants, autopilot, and deeper CRM attribution. For a while, the Monday changelog rhythm was almost part of the product itself.
+
+## Additional product views
+
+Campaigns depended on the surrounding infrastructure: connected mailboxes for sending, calendars for meeting detection, and workspace-level schedules that kept outbound inside sane delivery windows.
+
+![Connected email accounts and sending health](/assets/firstquadrant-campaigns/mailboxes.png)
+![Connected calendar accounts](/assets/firstquadrant-campaigns/calendars.png)
+![Workspace sending schedule](/assets/firstquadrant-campaigns/sending-schedule.png)

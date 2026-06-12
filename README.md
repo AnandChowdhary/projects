@@ -13,24 +13,24 @@ This repository contains my projects, available on [**anandchowdhary.com/project
 ### 2024
 
 - 🤖🧠📬 [**Actions on FirstQuadrant**](./projects/2024/firstquadrant-actions.md)  
-  Human-in-the-loop AI inbox where sales teams review, approve, and refine AI-generated outreach actions  
+  Human-in-the-loop command center where sales teams review, approve, and tune AI-generated next steps  
   🏷️ Web, FirstQuadrant  
   💻 TypeScript, React, Next.js, OpenAI GPT-4o, BullMQ
 
 - 🤖🌐🚀 [**FirstQuadrant.ai**](./projects/2024/firstquadrant-website.md)  
-  Marketing website, documentation, and changelog for FirstQuadrant's AI sales platform  
+  Marketing website, documentation, changelog, and product infrastructure for FirstQuadrant's AI sales platform  
   🏷️ Web, FirstQuadrant  
   💻 TypeScript, React, Next.js, Tailwind CSS, MDX
 
 ### 2023
 
 - 📧🤖🌍 [**Campaigns on FirstQuadrant**](./projects/2023/firstquadrant-campaigns.md)  
-  AI-generated personalized email sequences with deliverability infrastructure for fully autonomous B2B outbound  
+  AI-personalized outbound campaigns with sequence editing, audience qualification, deliverability, and pipeline tracking  
   🏷️ Web, FirstQuadrant  
   💻 TypeScript, React, Next.js, OpenAI, SendGrid
 
 - 🤖🔎📈 [**Prospecting & Qualification on FirstQuadrant**](./projects/2023/firstquadrant-prospecting.md)  
-  AI-powered lead finding, enrichment, and qualification engine for hyper-targeted B2B outbound sales  
+  AI-powered contact ingestion, enrichment, and qualification for targeted B2B outbound workflows  
   🏷️ Web, FirstQuadrant  
   💻 TypeScript, React, Next.js, Prisma, Apollo.io
 

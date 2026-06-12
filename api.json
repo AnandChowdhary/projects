@@ -1405,7 +1405,7 @@
     "source": "https://github.com/AnandChowdhary/projects/blob/main/projects/2024/firstquadrant-website.md",
     "title": "FirstQuadrant.ai",
     "date": "2024-02-21T00:00:00.000Z",
-    "excerpt": "The FirstQuadrant website had one hard job: explain a fairly complex sales product before visitors bounced. The positioning changed as the product got clearer. We went from \"All-in-one AI sales platform\" at YC launch, to \"AI sales execution platform,\" and eventually to \"Maximize B2B sales with human-centered AI.\" That last line matched what we were actually building: AI that helps humans do better sales work, centered on the Actions cockpit and Brain.",
+    "excerpt": "The FirstQuadrant website had one hard job: explain a fairly complex sales product before visitors bounced. The positioning changed as the product got clearer. We went from \"All-in-one AI sales platform\" at YC launch, to \"AI sales execution platform,\" and eventually to \"Maximize B2B sales with human-centered AI.\" That last line matched what we were trying to say in the product too: AI should help humans do better sales work, not replace their judgment.",
     "attributes": {
       "title": "FirstQuadrant.ai",
       "tags": "projects",

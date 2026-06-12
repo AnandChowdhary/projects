@@ -1343,7 +1343,7 @@
     "source": "https://github.com/AnandChowdhary/projects/blob/main/projects/2023/firstquadrant-prospecting.md",
     "title": "Prospecting & Qualification on FirstQuadrant",
     "date": "2023-06-01T00:00:00.000Z",
-    "excerpt": "Campaigns and Actions only worked well when the CRM had good people and company records. Prospecting was the intake layer: bring in contacts, enrich them, qualify them, and make them usable across the rest of FirstQuadrant. The first version centered on Apollo.io. Apollo had the breadth of B2B data we needed, and we built a workflow to search, filter, and qualify prospects without leaving FirstQuadrant.",
+    "excerpt": "Campaigns and Actions only worked well when the CRM had good people and company records. Prospecting was the intake layer: bring in contacts, enrich them, qualify them, and make them usable across the rest of FirstQuadrant. The first version centered on Apollo.io. Apollo had the breadth of B2B data we needed, and we built a workflow to search, filter, and qualify prospects without leaving FirstQuadrant. Later, this became a broader imports system.",
     "attributes": {
       "title": "Prospecting & Qualification on FirstQuadrant",
       "tags": "projects",
@@ -1374,7 +1374,7 @@
     "source": "https://github.com/AnandChowdhary/projects/blob/main/projects/2023/firstquadrant-campaigns.md",
     "title": "Campaigns on FirstQuadrant",
     "date": "2023-09-01T00:00:00.000Z",
-    "excerpt": "Campaigns connected the audience work to actual outbound. A campaign took a qualified audience, drafted emails in the sender's voice, sent them through connected mailboxes, and pushed replies into Actions for review. That was the path from a cold list to a real sales conversation. The campaign overview had to be quick to scan.",
+    "excerpt": "Campaigns connected the audience work to actual outbound. A campaign took a qualified audience, drafted emails in the sender's voice, sent them through connected mailboxes, and pushed replies into Actions for review. That was the path from a cold list to a real sales conversation. The campaign overview had to be quick to scan. Each campaign showed status, progress, and counts for contacts that were completed, running, sequenced, or still pending.",
     "attributes": {
       "title": "Campaigns on FirstQuadrant",
       "tags": "projects",
@@ -1405,7 +1405,7 @@
     "source": "https://github.com/AnandChowdhary/projects/blob/main/projects/2024/firstquadrant-website.md",
     "title": "FirstQuadrant.ai",
     "date": "2024-02-21T00:00:00.000Z",
-    "excerpt": "The FirstQuadrant website had one hard job: explain a fairly complex sales product before visitors bounced. The positioning changed as the product got clearer. We went from \"All-in-one AI sales platform\" at YC launch, to \"AI sales execution platform,\" and eventually to \"Maximize B2B sales with human-centered AI.\"",
+    "excerpt": "The FirstQuadrant website had one hard job: explain a fairly complex sales product before visitors bounced. The positioning changed as the product got clearer. We went from \"All-in-one AI sales platform\" at YC launch, to \"AI sales execution platform,\" and eventually to \"Maximize B2B sales with human-centered AI.\" That last line matched what we were actually building: AI that helps humans do better sales work, centered on the Actions cockpit and Brain.",
     "attributes": {
       "title": "FirstQuadrant.ai",
       "tags": "projects",
@@ -1436,7 +1436,7 @@
     "source": "https://github.com/AnandChowdhary/projects/blob/main/projects/2024/firstquadrant-actions.md",
     "title": "Actions on FirstQuadrant",
     "date": "2024-05-20T00:00:00.000Z",
-    "excerpt": "Actions started from a simple worry: sales AI can be useful and still need a person in the loop. We wanted reps to wake up to a clear queue of suggested next steps, review the context, and decide what was worth sending. Each row started with something that actually happened: an inbound email, a meeting signal, a stale deal, a campaign response, a note, or an imported lead that was ready for reasoning.",
+    "excerpt": "Actions started from a simple worry: sales AI can be useful and still need a person in the loop. We wanted reps to wake up to a clear queue of suggested next steps, review the context, and decide what was worth sending. Actions cockpit with reviewed AI tasks, contact context, and deal signals\n\nEach row started with something that actually happened: an inbound email, a meeting signal, a stale deal, a campaign response, a note, or an imported lead that was ready for reasoning. Fi",
     "attributes": {
       "title": "Actions on FirstQuadrant",
       "tags": "projects",

@@ -1409,7 +1409,7 @@
     "attributes": {
       "title": "FirstQuadrant.ai",
       "tags": "projects",
-      "intro": "The public site, docs, changelog, and platform settings around FirstQuadrant's sales product",
+      "intro": "Marketing site, docs, changelog, and launch positioning for FirstQuadrant",
       "date": "2024-02-21T00:00:00.000Z",
       "work": [
         "Web",
@@ -1428,7 +1428,7 @@
       ]
     },
     "emoji": "🤖🌐🚀",
-    "caption": "The public site, docs, changelog, and platform settings around FirstQuadrant's sales product\n🏷️ Web, FirstQuadrant\n💻 TypeScript, React, Next.js, Tailwind CSS, MDX"
+    "caption": "Marketing site, docs, changelog, and launch positioning for FirstQuadrant\n🏷️ Web, FirstQuadrant\n💻 TypeScript, React, Next.js, Tailwind CSS, MDX"
   },
   {
     "slug": "firstquadrant-actions.md",

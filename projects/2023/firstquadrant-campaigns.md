@@ -42,6 +42,9 @@ Campaigns kept growing after the first release. We added language support, riche
 
 Campaigns depended on the surrounding infrastructure: connected mailboxes for sending, calendars for meeting detection, and workspace-level schedules that kept outbound inside sane delivery windows.
 
+Member settings mattered too, because campaigns borrowed identity from real senders. Scheduling links, signatures, reply-to addresses, and active status all shaped what the recipient saw and where replies went.
+
 ![Connected email accounts and sending health](/assets/firstquadrant-campaigns/mailboxes.png)
 ![Connected calendar accounts](/assets/firstquadrant-campaigns/calendars.png)
+![Workspace member management for sender identity](/assets/firstquadrant-campaigns/members.png)
 ![Workspace sending schedule](/assets/firstquadrant-campaigns/sending-schedule.png)

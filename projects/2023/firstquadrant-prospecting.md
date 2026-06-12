@@ -25,6 +25,13 @@ For teams with existing lists, CSV import did a lot of the unglamorous work. The
 
 We also built integration audiences through app imports and API keys with `fqa_pub_` previews. Leads could flow in from forms, webhooks, website visitor tools, product analytics, or CRMs. Imports could run immediately or on a recurring schedule, which made them useful for one-time lists and ongoing sources like product signups.
 
+The supporting settings belonged to this workflow. Apps showed where leads could come from. API keys made server-to-server intake possible. Custom properties gave enrichment and qualification results somewhere structured to live. Data export kept the contact database portable.
+
+![App integrations for import sources](/assets/firstquadrant-prospecting/apps.png)
+![API keys for lead intake and integrations](/assets/firstquadrant-prospecting/api-keys.png)
+![Custom CRM properties for enrichment and segmentation](/assets/firstquadrant-prospecting/properties.png)
+![Contacts CSV export](/assets/firstquadrant-prospecting/data-export.png)
+
 ![Import sources and enrichment workflows](/assets/firstquadrant-prospecting/imports.png)
 ![Import detail with row-level processing status](/assets/firstquadrant-prospecting/import-detail.png)
 

@@ -21,6 +21,10 @@ The page was intentionally dense. The status selector kept the daily workflow si
 
 Behind the queue was Brain, our reasoning system powered by GPT-4o. It read conversation history, contact and company context, pipeline state, campaign context, workspace settings, and fine-tuning rules. When a new signal came in, it did not run a fixed workflow. It looked at the latest context and proposed what should happen next.
 
+Workspace settings were part of that context. The organization profile, website, and description gave Brain basic grounding before it wrote or classified anything for a customer.
+
+![Workspace settings that grounded AI reasoning](/assets/firstquadrant-actions/general-settings.png)
+
 The human controls lived right next to the work. You could approve, reject, snooze for a day/week/month, rerun AI reasoning, or sync the action back to the source system. When FirstQuadrant was still processing contacts, the header showed a live “processing contacts” control. That made the background work visible instead of making the list feel mysterious.
 
 ![Fine-tuning rules that guide AI action generation](/assets/firstquadrant-actions/fine-tuning.png)

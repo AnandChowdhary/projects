@@ -18,7 +18,7 @@ This repository contains my projects, available on [**anandchowdhary.com/project
   💻 TypeScript, React, Next.js, OpenAI GPT-4o, BullMQ
 
 - 🤖🌐🚀 [**FirstQuadrant.ai**](./projects/2024/firstquadrant-website.md)  
-  The public site, docs, changelog, and platform settings around FirstQuadrant's sales product  
+  Marketing site, docs, changelog, and launch positioning for FirstQuadrant  
   🏷️ Web, FirstQuadrant  
   💻 TypeScript, React, Next.js, Tailwind CSS, MDX
 
